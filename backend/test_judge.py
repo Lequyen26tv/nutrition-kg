@@ -1,5 +1,6 @@
 from app.evaluator.llm_judge import LLMJudge
 
+
 judge = LLMJudge(
     api_key="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"
 )

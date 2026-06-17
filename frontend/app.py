@@ -1,4 +1,6 @@
-﻿import os
+import os
+import sys
+import os
 import sys
 from pathlib import Path
 
@@ -7,8 +9,8 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title="Nutrition Graph-RAG",
-    page_icon="N",
+    page_title="Tư vấn Dinh dưỡng – Nutrition Graph-RAG",
+    page_icon="🥗",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -28,22 +30,31 @@ except ImportError:
 
 APP_CSS = """
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 :root {
-    --page: #f3faf5;
+    --page: #f8fbf9;
     --panel: #ffffff;
-    --panel-soft: #f7fcf8;
-    --text: #171717;
-    --muted: #53665b;
-    --subtle: #76877d;
-    --line: #d7eadc;
-    --line-strong: #b8d8c2;
-    --accent: #16733f;
-    --accent-soft: #e6f5eb;
-    --accent-hover: #d8efdf;
+    --panel-soft: #eef6f1;
+    --text: #1a1f1d;
+    --muted: #4a5e54;
+    --subtle: #7a8f85;
+    --line: #ddeee5;
+    --line-strong: #b8d9c7;
+    --accent: #1a7a45;
+    --accent-dark: #145e35;
+    --accent-soft: #e4f5ec;
+    --accent-hover: #d0eddc;
+    --accent-glow: rgba(26, 122, 69, 0.12);
+    --radius-sm: 10px;
+    --radius-md: 14px;
+    --radius-lg: 20px;
+    --shadow-card: 0 2px 12px rgba(26, 122, 69, 0.08), 0 1px 3px rgba(0,0,0,0.05);
+    --shadow-input: 0 4px 20px rgba(26, 122, 69, 0.15), 0 2px 6px rgba(0,0,0,0.06);
 }
 
 html, body, [class*="css"] {
-    font-family: "Segoe UI", Arial, sans-serif;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif !important;
 }
 
 .stApp {
@@ -74,193 +85,324 @@ html, body, [class*="css"] {
 }
 
 .block-container {
-    max-width: 1100px;
-    padding-top: 1.25rem;
-    padding-bottom: 6.5rem;
+    max-width: 820px;
+    padding-top: 1.5rem;
+    padding-bottom: 7rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 header[data-testid="stHeader"] {
     background: transparent;
 }
 
+/* ── TOP HEADER ── */
 .topbar {
     display: flex;
     justify-content: space-between;
     gap: 1rem;
     align-items: flex-start;
-    padding: 1rem 0 0.75rem;
+    padding: 0.5rem 0 1.5rem;
     border-bottom: 1px solid var(--line);
-    margin-bottom: 1rem;
+    margin-bottom: 1.2rem;
+}
+
+.app-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.4rem;
+}
+
+.app-icon {
+    width: 2.4rem;
+    height: 2.4rem;
+    background: linear-gradient(135deg, #1a7a45, #2ea060);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+    flex: 0 0 auto;
+    box-shadow: 0 4px 12px rgba(26, 122, 69, 0.3);
 }
 
 .app-title {
-    color: #0f3d25 !important;
-    font-size: 1.7rem;
-    font-weight: 750;
-    letter-spacing: 0;
-    line-height: 1.15;
+    color: var(--text) !important;
+    font-size: 1.35rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
     margin: 0;
 }
 
 .app-subtitle {
     color: var(--muted) !important;
-    font-size: 0.95rem;
-    line-height: 1.55;
-    max-width: 720px;
-    margin-top: 0.45rem;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    max-width: 620px;
+    margin-top: 0.3rem;
 }
 
 .status-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
     border: 1px solid var(--line-strong);
-    border-radius: 6px;
-    color: #0f3d25 !important;
+    border-radius: 999px;
+    color: var(--accent-dark) !important;
     background: var(--accent-soft);
-    font-size: 0.78rem;
-    font-weight: 650;
-    padding: 0.45rem 0.65rem;
+    font-size: 0.76rem;
+    font-weight: 600;
+    padding: 0.4rem 0.9rem;
     white-space: nowrap;
+    margin-top: 0.2rem;
 }
 
+.status-chip::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    flex: 0 0 auto;
+}
+
+/* ── STATS ── */
 .stats-row {
     display: grid;
-    grid-template-columns: repeat(2, minmax(180px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 0.75rem;
-    margin-bottom: 1rem;
-}
-
-.stat-card,
-.quick-box,
-.notice,
-.chat-box {
-    background: var(--panel);
-    border: 1px solid var(--line);
-    border-radius: 8px;
+    margin-bottom: 1.25rem;
 }
 
 .stat-card {
-    padding: 0.9rem 1rem;
-    box-shadow: 0 6px 20px rgba(22, 115, 63, 0.05);
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.1rem;
+    box-shadow: var(--shadow-card);
+    transition: box-shadow 0.2s;
+}
+
+.stat-card:hover {
+    box-shadow: 0 4px 20px rgba(26, 122, 69, 0.12);
 }
 
 .stat-label {
     color: var(--muted) !important;
-    font-size: 0.78rem;
+    font-size: 0.72rem;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.07em;
 }
 
 .stat-value {
     color: var(--accent) !important;
-    font-size: 1.85rem;
-    font-weight: 760;
+    font-size: 1.9rem;
+    font-weight: 700;
     line-height: 1.1;
-    margin-top: 0.25rem;
+    margin-top: 0.2rem;
+    font-variant-numeric: tabular-nums;
 }
 
 .stat-hint {
     color: var(--subtle) !important;
-    font-size: 0.78rem;
-    margin-top: 0.35rem;
+    font-size: 0.76rem;
+    margin-top: 0.3rem;
 }
 
+/* ── NOTICE ── */
 .notice {
-    color: #244534 !important;
-    font-size: 0.9rem;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    color: var(--muted) !important;
+    font-size: 0.82rem;
     line-height: 1.55;
-    padding: 0.75rem 0.9rem;
-    margin-bottom: 1rem;
-    background: #f8fdf9;
-    border-left: 4px solid var(--accent);
+    padding: 0.6rem 0.9rem;
+    margin: 0 0 1.2rem;
+    background: var(--accent-soft);
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--accent);
+    border-radius: var(--radius-sm);
 }
 
-.quick-box {
-    padding: 0.8rem 0.9rem 0.95rem;
-    margin-bottom: 1rem;
+/* ── QUICK PROMPTS ── */
+.quick-section {
+    margin-bottom: 1.2rem;
 }
 
 .section-title {
-    color: var(--text);
-    font-size: 0.96rem;
-    font-weight: 750;
-    margin-bottom: 0.65rem;
+    color: var(--muted);
+    font-size: 0.76rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.07em;
+    margin-bottom: 0.7rem;
 }
 
 .stButton > button {
-    min-height: 2.75rem;
-    border-radius: 6px;
+    min-height: 2.7rem;
+    border-radius: var(--radius-sm);
     border: 1px solid var(--line-strong);
-    background: #fbfefc;
-    color: #123d27 !important;
-    font-weight: 650;
-    line-height: 1.35;
+    background: var(--panel);
+    color: var(--text) !important;
+    font-weight: 500;
+    font-size: 0.85rem;
+    line-height: 1.4;
     white-space: normal;
-    box-shadow: none;
+    box-shadow: var(--shadow-card);
+    transition: all 0.18s ease;
+    text-align: left;
+    padding: 0.5rem 0.8rem;
 }
 
 .stButton > button:hover {
     border-color: var(--accent);
     background: var(--accent-hover);
-    color: #0f3d25 !important;
+    color: var(--accent-dark) !important;
+    box-shadow: 0 4px 16px var(--accent-glow);
+    transform: translateY(-1px);
+}
+
+.stButton > button:active {
+    transform: translateY(0);
 }
 
 .stButton > button p,
 .stButton > button span,
 .stButton > button div {
-    color: #123d27 !important;
+    color: inherit !important;
+    font-size: 0.85rem !important;
 }
 
+/* ── CHAT ── */
 .chat-box {
-    padding: 0.35rem 0.7rem 0.1rem;
+    padding: 0.1rem 0 0;
 }
 
 [data-testid="stChatMessage"] {
-    border: 1px solid var(--line);
-    background: var(--panel);
+    border: 0;
+    border-bottom: 1px solid var(--line);
+    background: transparent;
     color: var(--text) !important;
-    border-radius: 8px;
-    padding: 0.75rem 0.85rem;
-    margin-bottom: 0.75rem;
+    border-radius: 0;
+    padding: 1.1rem 0.5rem;
+    margin-bottom: 0;
 }
 
 [data-testid="stChatMessage"] p,
 [data-testid="stChatMessage"] span,
 [data-testid="stChatMessage"] div {
     color: var(--text) !important;
+    font-size: 0.935rem;
+    line-height: 1.65;
 }
 
 [data-testid="stChatMessage"]:has([data-testid="chatAvatarIcon-user"]) {
-    background: #eef8f1;
-    border-color: #c9e6d1;
+    background: var(--panel-soft);
+    border-radius: var(--radius-sm);
+    margin: 0.4rem 0;
+    border: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
 }
 
+/* ── CHAT INPUT ── */
 [data-testid="stChatInput"] {
-    background: rgba(243, 250, 245, 0.96);
+    background: transparent;
+    padding: 0.75rem 0;
 }
 
 [data-testid="stChatInput"] textarea {
-    border: 1px solid var(--line-strong);
-    border-radius: 8px;
+    border: 1.5px solid var(--line-strong);
+    border-radius: var(--radius-lg);
     color: var(--text) !important;
-    background: #ffffff !important;
+    background: var(--panel) !important;
+    box-shadow: var(--shadow-input);
+    font-size: 0.95rem !important;
+    font-family: 'Inter', sans-serif !important;
+    padding: 0.85rem 1.1rem !important;
+    min-height: 56px !important;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+[data-testid="stChatInput"] textarea:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-glow), var(--shadow-input);
+    outline: none;
 }
 
 [data-testid="stChatInput"] textarea::placeholder {
-    color: #777777 !important;
+    color: var(--subtle) !important;
+    font-style: italic;
 }
 
+/* ── USER CARD ── */
+.user-card {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    border: 1px solid var(--line-strong);
+    background: var(--panel);
+    border-radius: var(--radius-sm);
+    padding: 0.75rem;
+    margin-bottom: 0.75rem;
+    box-shadow: var(--shadow-card);
+}
+
+.user-icon {
+    width: 2.2rem;
+    height: 2.2rem;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #1a7a45, #2ea060);
+    color: #ffffff !important;
+    font-size: 0.95rem;
+    font-weight: 700;
+    flex: 0 0 auto;
+    box-shadow: 0 2px 8px rgba(26,122,69,0.3);
+}
+
+.user-meta {
+    min-width: 0;
+}
+
+.user-name {
+    color: var(--text) !important;
+    font-size: 0.9rem;
+    font-weight: 600;
+    line-height: 1.25;
+    overflow-wrap: anywhere;
+}
+
+.user-status {
+    color: var(--muted) !important;
+    font-size: 0.76rem;
+    line-height: 1.3;
+    margin-top: 0.1rem;
+}
+
+/* ── RESPONSIVE ── */
 @media (max-width: 780px) {
     .topbar {
         display: block;
     }
 
     .status-chip {
-        display: inline-block;
+        display: inline-flex;
         margin-top: 0.75rem;
     }
 
     .stats-row {
         grid-template-columns: 1fr;
+    }
+
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
 }
 </style>
@@ -296,7 +438,7 @@ def get_neo4j_stats():
     password = os.getenv("NEO4J_PASSWORD")
 
     if not uri or not user or not password:
-        return {"nodes": None, "relationships": None, "status": "Thiáº¿u cáº¥u hÃ¬nh Neo4j"}
+        return {"nodes": None, "relationships": None, "status": "Thiếu cấu hình Neo4j"}
 
     try:
         from neo4j import GraphDatabase
@@ -308,7 +450,7 @@ def get_neo4j_stats():
         driver.close()
         return {"nodes": nodes, "relationships": relationships, "status": "Neo4j Aura"}
     except Exception:
-        return {"nodes": None, "relationships": None, "status": "KhÃ´ng káº¿t ná»‘i Ä‘Æ°á»£c Neo4j"}
+        return {"nodes": None, "relationships": None, "status": "Không kết nối được Neo4j"}
 
 
 def format_count(value):
@@ -370,22 +512,22 @@ def render_auth_screen():
             <div>
                 <h1 class="app-title">Nutrition Graph-RAG</h1>
                 <div class="app-subtitle">
-                    ÄÄƒng nháº­p Ä‘á»ƒ chatbot lÆ°u láº¡i lá»‹ch sá»­ há»i Ä‘Ã¡p dinh dÆ°á»¡ng theo tÃ i khoáº£n cá»§a báº¡n.
+                    Đăng nhập để chatbot lưu lại lịch sử hỏi đáp dinh dưỡng theo tài khoản của bạn.
                 </div>
             </div>
-            <div class="status-chip">TÃ i khoáº£n ngÆ°á»i dÃ¹ng</div>
+            <div class="status-chip">Tài khoản người dùng</div>
         </div>
         """,
         unsafe_allow_html=True,
     )
 
-    login_tab, register_tab = st.tabs(["ÄÄƒng nháº­p", "ÄÄƒng kÃ½"])
+    login_tab, register_tab = st.tabs(["Đăng nhập", "Đăng ký"])
 
     with login_tab:
         with st.form("login_form"):
-            username = st.text_input("TÃªn Ä‘Äƒng nháº­p", key="login_username")
-            password = st.text_input("Máº­t kháº©u", type="password", key="login_password")
-            submitted = st.form_submit_button("ÄÄƒng nháº­p", use_container_width=True)
+            username = st.text_input("Tên đăng nhập", key="login_username")
+            password = st.text_input("Mật khẩu", type="password", key="login_password")
+            submitted = st.form_submit_button("Đăng nhập", use_container_width=True)
 
         if submitted:
             try:
@@ -398,18 +540,18 @@ def render_auth_screen():
                     set_auth(response.json())
                     st.rerun()
                 else:
-                    st.error(response.json().get("detail", "KhÃ´ng Ä‘Äƒng nháº­p Ä‘Æ°á»£c."))
+                    st.error(response.json().get("detail", "Không đăng nhập được."))
             except requests.exceptions.ConnectionError:
-                st.error("KhÃ´ng káº¿t ná»‘i Ä‘Æ°á»£c backend FastAPI.")
+                st.error("Không kết nối được backend FastAPI.")
             except Exception as exc:
-                st.error(f"CÃ³ lá»—i khi Ä‘Äƒng nháº­p: {exc}")
+                st.error(f"Có lỗi khi đăng nhập: {exc}")
 
     with register_tab:
         with st.form("register_form"):
-            full_name = st.text_input("Há» tÃªn", key="register_full_name")
-            username = st.text_input("TÃªn Ä‘Äƒng nháº­p", key="register_username")
-            password = st.text_input("Máº­t kháº©u", type="password", key="register_password")
-            submitted = st.form_submit_button("Táº¡o tÃ i khoáº£n", use_container_width=True)
+            full_name = st.text_input("Họ tên", key="register_full_name")
+            username = st.text_input("Tên đăng nhập", key="register_username")
+            password = st.text_input("Mật khẩu", type="password", key="register_password")
+            submitted = st.form_submit_button("Tạo tài khoản", use_container_width=True)
 
         if submitted:
             try:
@@ -426,23 +568,97 @@ def render_auth_screen():
                     set_auth(response.json())
                     st.rerun()
                 else:
-                    st.error(response.json().get("detail", "KhÃ´ng táº¡o Ä‘Æ°á»£c tÃ i khoáº£n."))
+                    st.error(response.json().get("detail", "Không tạo được tài khoản."))
             except requests.exceptions.ConnectionError:
-                st.error("KhÃ´ng káº¿t ná»‘i Ä‘Æ°á»£c backend FastAPI.")
+                st.error("Không kết nối được backend FastAPI.")
             except Exception as exc:
-                st.error(f"CÃ³ lá»—i khi Ä‘Äƒng kÃ½: {exc}")
+                st.error(f"Có lỗi khi đăng ký: {exc}")
 
 
 def render_user_controls():
     user = st.session_state.get("auth_user") or {}
-    display_name = user.get("full_name") or user.get("username") or "NgÆ°á»i dÃ¹ng"
 
     with st.sidebar:
-        st.markdown('<div class="sb-section">TÃ i khoáº£n</div>', unsafe_allow_html=True)
+        st.markdown('<div class="sb-section">Tài khoản</div>', unsafe_allow_html=True)
+
+        if not user:
+            st.markdown(
+                """
+                <div class="user-card">
+                    <div class="user-icon">U</div>
+                    <div class="user-meta">
+                        <div class="user-name">Khách</div>
+                        <div class="user-status">Chat tự do, chưa lưu lịch sử</div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+            st.caption("Bạn có thể chat không cần đăng nhập. Đăng nhập để xem 10 lượt hỏi đáp gần nhất của mình.")
+            login_tab, register_tab = st.tabs(["Đăng nhập", "Đăng ký"])
+
+            with login_tab:
+                with st.form("sidebar_login_form"):
+                    username = st.text_input("Tên đăng nhập", key="sidebar_login_username")
+                    password = st.text_input("Mật khẩu", type="password", key="sidebar_login_password")
+                    submitted = st.form_submit_button("Đăng nhập", use_container_width=True)
+
+                if submitted:
+                    try:
+                        response = api_post(
+                            "/auth/login",
+                            {"username": username, "password": password},
+                            timeout=15,
+                        )
+                        if response.status_code == 200:
+                            set_auth(response.json())
+                            st.rerun()
+                        else:
+                            st.error(response.json().get("detail", "Không đăng nhập được."))
+                    except requests.exceptions.ConnectionError:
+                        st.error("Không kết nối được backend FastAPI.")
+                    except Exception as exc:
+                        st.error(f"Có lỗi khi đăng nhập: {exc}")
+
+            with register_tab:
+                with st.form("sidebar_register_form"):
+                    full_name = st.text_input("Họ tên", key="sidebar_register_full_name")
+                    username = st.text_input("Tên đăng nhập", key="sidebar_register_username")
+                    password = st.text_input("Mật khẩu", type="password", key="sidebar_register_password")
+                    submitted = st.form_submit_button("Tạo tài khoản", use_container_width=True)
+
+                if submitted:
+                    try:
+                        response = api_post(
+                            "/auth/register",
+                            {
+                                "full_name": full_name,
+                                "username": username,
+                                "password": password,
+                            },
+                            timeout=15,
+                        )
+                        if response.status_code == 200:
+                            set_auth(response.json())
+                            st.rerun()
+                        else:
+                            st.error(response.json().get("detail", "Không tạo được tài khoản."))
+                    except requests.exceptions.ConnectionError:
+                        st.error("Không kết nối được backend FastAPI.")
+                    except Exception as exc:
+                        st.error(f"Có lỗi khi đăng ký: {exc}")
+            return
+
+        display_name = user.get("full_name") or user.get("username") or "Người dùng"
+        initial = display_name.strip()[0].upper() if display_name.strip() else "U"
         st.markdown(
             f"""
-            <div class="sb-list">
-                <div class="sb-item">{display_name}</div>
+            <div class="user-card">
+                <div class="user-icon">{initial}</div>
+                <div class="user-meta">
+                    <div class="user-name">{display_name}</div>
+                    <div class="user-status">Đang hiển thị 10 lượt hỏi đáp gần nhất</div>
+                </div>
             </div>
             """,
             unsafe_allow_html=True,
@@ -450,17 +666,17 @@ def render_user_controls():
 
         clear_col, logout_col = st.columns(2)
         with clear_col:
-            if st.button("XÃ³a lá»‹ch sá»­", use_container_width=True):
+            if st.button("Xóa lịch sử", use_container_width=True):
                 try:
                     api_delete("/chat/history", timeout=15)
                     st.session_state.pop("history_loaded_for", None)
                     st.session_state.pop("messages", None)
                     st.rerun()
                 except Exception as exc:
-                    st.error(f"KhÃ´ng xÃ³a Ä‘Æ°á»£c lá»‹ch sá»­: {exc}")
+                    st.error(f"Không xóa được lịch sử: {exc}")
 
         with logout_col:
-            if st.button("ÄÄƒng xuáº¥t", use_container_width=True):
+            if st.button("Đăng xuất", use_container_width=True):
                 try:
                     api_post("/auth/logout", timeout=15)
                 except Exception:
@@ -476,7 +692,7 @@ def default_messages():
     return [
         {
             "role": "assistant",
-            "content": "ChÃ o báº¡n. HÃ£y nháº­p mÃ³n Äƒn, bá»‡nh lÃ½ hoáº·c kháº©u pháº§n báº¡n muá»‘n kiá»ƒm tra.",
+            "content": "Chào bạn. Hãy nhập món ăn, bệnh lý hoặc khẩu phần bạn muốn kiểm tra.",
         }
     ]
 
@@ -511,12 +727,12 @@ def call_backend(question: str) -> str:
     response = api_post("/chat", {"question": question}, timeout=30)
 
     if response.status_code != 200:
-        return f"**MÃ¡y chá»§ pháº£n há»“i lá»—i {response.status_code}.** Vui lÃ²ng kiá»ƒm tra backend FastAPI."
+        return f"**Máy chủ phản hồi lỗi {response.status_code}.** Vui lòng kiểm tra backend FastAPI."
 
     data = response.json()
     return data.get(
         "answer",
-        "MÃ¬nh chÆ°a tÃ¬m tháº¥y cÃ¢u tráº£ lá»i phÃ¹ há»£p. Báº¡n thá»­ há»i rÃµ hÆ¡n vá» mÃ³n Äƒn, bá»‡nh lÃ½ hoáº·c kháº©u pháº§n nhÃ©.",
+        "Mình chưa tìm thấy câu trả lời phù hợp. Bạn thử hỏi rõ hơn về món ăn, bệnh lý hoặc khẩu phần nhé.",
     )
 
 
@@ -525,10 +741,13 @@ def render_header(stats):
         f"""
         <div class="topbar">
             <div>
-                <h1 class="app-title">Nutrition Graph-RAG</h1>
+                <div class="app-brand">
+                    <div class="app-icon">🥗</div>
+                    <h1 class="app-title">Nutrition Graph-RAG</h1>
+                </div>
                 <div class="app-subtitle">
-                    Chatbot há»i Ä‘Ã¡p dinh dÆ°á»¡ng dá»±a trÃªn Ä‘á»“ thá»‹ tri thá»©c Neo4j Aura.
-                    Nháº­p mÃ³n Äƒn hoáº·c bá»‡nh lÃ½ Ä‘á»ƒ nháº­n gá»£i Ã½ ngáº¯n gá»n, dá»… Ã¡p dá»¥ng.
+                    Chatbot hỏi đáp dinh dưỡng từ đồ thị tri thức Neo4j.
+                    Hỏi về món ăn, bệnh lý hoặc khẩu phần để nhận gợi ý phù hợp.
                 </div>
             </div>
             <div class="status-chip">{stats["status"]}</div>
@@ -545,12 +764,12 @@ def render_stats(stats):
             <div class="stat-card">
                 <div class="stat-label">Nodes</div>
                 <div class="stat-value">{format_count(stats["nodes"])}</div>
-                <div class="stat-hint">Tá»•ng sá»‘ thá»±c thá»ƒ trong Neo4j Aura</div>
+                <div class="stat-hint">Tổng số thực thể trong Neo4j Aura</div>
             </div>
             <div class="stat-card">
                 <div class="stat-label">Relationships</div>
                 <div class="stat-value">{format_count(stats["relationships"])}</div>
-                <div class="stat-hint">Tá»•ng sá»‘ liÃªn káº¿t trong Neo4j Aura</div>
+                <div class="stat-hint">Tổng số liên kết trong Neo4j Aura</div>
             </div>
         </div>
         """,
@@ -562,7 +781,7 @@ def render_notice():
     st.markdown(
         """
         <div class="notice">
-            Ná»™i dung chá»‰ mang tÃ­nh tham kháº£o, khÃ´ng thay tháº¿ tÆ° váº¥n cá»§a bÃ¡c sÄ© hoáº·c chuyÃªn gia dinh dÆ°á»¡ng.
+            ⚕️ Nội dung chỉ mang tính tham khảo, không thay thế tư vấn của bác sĩ hoặc chuyên gia dinh dưỡng.
         </div>
         """,
         unsafe_allow_html=True,
@@ -571,28 +790,27 @@ def render_notice():
 
 def render_quick_prompts():
     st.markdown(
-        """
-        <div class="quick-box">
-            <div class="section-title">CÃ¢u há»i nhanh</div>
-        </div>
-        """,
+        '<div class="section-title">💬 Câu hỏi nhanh</div>',
         unsafe_allow_html=True,
     )
 
     prompts = [
-        ("Tiá»ƒu Ä‘Æ°á»ng Äƒn chÃ¨ ThÃ¡i Ä‘Æ°á»£c khÃ´ng?", "Bá»‡nh nhÃ¢n Ä‘Ã¡i thÃ¡o Ä‘Æ°á»ng Äƒn chÃ¨ ThÃ¡i Ä‘Æ°á»£c khÃ´ng?"),
-        ("Cao huyáº¿t Ã¡p uá»‘ng sinh tá»‘ bÆ¡ Ä‘Æ°á»£c khÃ´ng?", "NgÆ°á»i cao huyáº¿t Ã¡p uá»‘ng sinh tá»‘ bÆ¡ cÃ³ tá»‘t khÃ´ng?"),
-        ("Ä‚n cÆ¡m tráº¯ng cáº§n chÃº Ã½ gÃ¬?", "NgÆ°á»i bá»‡nh tiá»ƒu Ä‘Æ°á»ng cáº§n lÆ°u Ã½ gÃ¬ khi Äƒn cÆ¡m tráº¯ng?"),
-        ("Gá»£i Ã½ bá»¯a sÃ¡ng phÃ¹ há»£p", "NgÆ°á»i Ä‘Ã¡i thÃ¡o Ä‘Æ°á»ng vÃ  tÄƒng huyáº¿t Ã¡p nÃªn Äƒn sÃ¡ng mÃ³n Viá»‡t nÃ o?"),
+        ("🍮 Tiểu đường ăn chè Thái được không?", "Bệnh nhân đái tháo đường ăn chè Thái được không?"),
+        ("🥑 Cao huyết áp uống sinh tố bơ?", "Người cao huyết áp uống sinh tố bơ có tốt không?"),
+        ("🍚 Ăn cơm trắng cần chú ý gì?", "Người bệnh tiểu đường cần lưu ý gì khi ăn cơm trắng?"),
+        ("🌅 Gợi ý bữa sáng phù hợp", "Người đái tháo đường và tăng huyết áp nên ăn sáng món Việt nào?"),
     ]
 
-    cols = st.columns(4)
     selected_prompt = None
+    row1_cols = st.columns(2)
+    row2_cols = st.columns(2)
+    all_cols = row1_cols + row2_cols
     for index, (label, value) in enumerate(prompts):
-        with cols[index]:
-            if st.button(label, use_container_width=True):
+        with all_cols[index]:
+            if st.button(label, use_container_width=True, key=f"qp_{index}"):
                 selected_prompt = value
 
+    st.markdown("<div style='margin-bottom:0.6rem'></div>", unsafe_allow_html=True)
     return selected_prompt
 
 
@@ -615,15 +833,15 @@ def handle_prompt(prompt: str):
     st.session_state.messages.append({"role": "user", "content": prompt})
 
     with st.chat_message("assistant"):
-        with st.spinner("Äang truy xuáº¥t Neo4j Aura vÃ  tá»•ng há»£p cÃ¢u tráº£ lá»i..."):
+        with st.spinner("Đang truy xuất Neo4j Aura và tổng hợp câu trả lời..."):
             try:
                 answer = call_backend(prompt)
             except requests.exceptions.ConnectionError:
-                answer = "**KhÃ´ng káº¿t ná»‘i Ä‘Æ°á»£c backend FastAPI.** HÃ£y khá»Ÿi Ä‘á»™ng backend trÆ°á»›c."
+                answer = "**Không kết nối được backend FastAPI.** Hãy khởi động backend trước."
             except requests.exceptions.Timeout:
-                answer = "**Backend pháº£n há»“i quÃ¡ lÃ¢u.** Báº¡n thá»­ há»i láº¡i sau."
+                answer = "**Backend phản hồi quá lâu.** Bạn thử hỏi lại sau."
             except Exception as exc:
-                answer = f"**CÃ³ lá»—i khi xá»­ lÃ½ cÃ¢u há»i:** `{exc}`"
+                answer = f"**Có lỗi khi xử lý câu hỏi:** `{exc}`"
 
         st.markdown(answer)
     st.session_state.messages.append({"role": "assistant", "content": answer})
@@ -632,11 +850,6 @@ def handle_prompt(prompt: str):
 def main():
     inject_app_css()
     init_auth_state()
-
-    if not st.session_state.get("auth_token"):
-        render_auth_screen()
-        st.stop()
-
     stats = get_neo4j_stats()
 
     if render_sidebar:
@@ -645,21 +858,20 @@ def main():
         st.sidebar.info("Nutrition Graph-RAG")
 
     render_user_controls()
-    load_chat_history()
+    if st.session_state.get("auth_token"):
+        load_chat_history()
     init_messages()
     render_header(stats)
     render_stats(stats)
     render_notice()
-    quick_prompt = render_quick_prompts()
+    selected = render_quick_prompts()
     render_chat_history()
 
-    typed_prompt = st.chat_input("Nháº­p cÃ¢u há»i vá» mÃ³n Äƒn, bá»‡nh lÃ½ hoáº·c kháº©u pháº§n...")
-    prompt = quick_prompt or typed_prompt
+    typed_prompt = st.chat_input("Hỏi về món ăn, bệnh lý, khẩu phần... (VD: Tiểu đường ăn cơm trắng được không?)")
+    prompt = typed_prompt or selected
 
     if prompt:
         handle_prompt(prompt)
-        if quick_prompt:
-            st.rerun()
 
 
 if __name__ == "__main__":

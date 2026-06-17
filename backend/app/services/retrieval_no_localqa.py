@@ -129,9 +129,12 @@ class RetrievalService:
         q_normalized = unicodedata.normalize('NFC', question).strip()
 
         # 1. Kiểm tra tập dữ liệu QA cục bộ trước
-        local_qa = self._best_local_disease_qa(question)
-        if local_qa:
-            return self._format_disease_qa_context(local_qa)
+        # =====================================================
+# ABLATION STUDY: GraphRAG (No Local QA)
+# Bỏ nguồn QA cục bộ, luôn tiếp tục truy Neo4j
+# =====================================================
+
+        local_qa = None
 
         # 2. KIỂM TRA CHUNK ĐỐI THOẠI TỰ NHIÊN TRÊN NEO4J
         if any(kw in q_clean for kw in ["tiểu đường", "đường huyết", "huyết áp", "bị bệnh", "bác sĩ", "tui bị", "mẹ tôi"]):

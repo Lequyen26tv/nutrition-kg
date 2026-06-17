@@ -840,5 +840,21 @@ EVAL_DISEASE_DATA = [
     {
         "question": "Vừa bị tiểu đường vừa bị tăng huyết áp thì nên ưu tiên mục tiêu dinh dưỡng nào?",
         "ground_truth": "Cần đạt đồng thời 3 mục tiêu: Một là đạt mục tiêu kiểm soát glucose máu (HbA1c < 7%); Hai là duy trì huyết áp mục tiêu (< 130/80 mmHg); Ba là quản lý ổn định cân nặng ở mức hợp lý (BMI từ 19 đến dưới 23)."
-    }
+    },
+     {
+        "question": "Trứng gà công nghiệp luộc chứa bao nhiêu carbohydrate?",
+        "ground_truth": "0.4 g carbohydrate"
+    },
+    {
+        "question": "Trứng gà ta luộc chứa bao nhiêu carbohydrate?",
+        "ground_truth": "0.2 g carbohydrate"
+    },
+    {
+        "question": "Trứng gà ta rán chứa bao nhiêu carbohydrate?",
+        "ground_truth": "0.3 g carbohydrate"
+    },
+    {
+        "question": "Trứng vịt lộn chứa bao nhiêu carbohydrate?",
+        "ground_truth": "1.8 g carbohydrate"
+    },
 ]

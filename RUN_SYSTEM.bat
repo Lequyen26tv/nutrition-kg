@@ -1,24 +1,24 @@
 @echo off
-title He thong Dinh duong Graph-RAG (NGR-Engine)
+chcp 65001 > nul
+set PYTHONUTF8=1
+set PYTHONIOENCODING=utf-8
+title Hệ thống Dinh dưỡng Graph-RAG (NGR-Engine)
 cls
 echo ==========================================================
-echo   DANG KICH HOAT HE THONG HYBRID GRAPH-RAG TU DONG...
+echo   ĐANG KÍCH HOẠT HỆ THỐNG HYBRID GRAPH-RAG TỰ ĐỘNG...
 echo ==========================================================
 echo.
 
-:: 1. KÍCH HOẠT BACKEND FASTAPI TRÊN PORT 8000
-echo -> Dang khoi dong Backend FastAPI (Uvicorn)...
-start "NGR - Backend Server" cmd /k "cd /d D:\KHOALUAN9\nutrition_graph_rag\backend && ..\venv\Scripts\python.exe -m uvicorn app.main:app --reload"
+echo -^> Đang khởi động Backend FastAPI (Uvicorn)...
+start "NGR - Backend Server" cmd /k "chcp 65001 > nul && set PYTHONUTF8=1&& set PYTHONIOENCODING=utf-8&& cd /d D:\KHOALUAN9\nutrition_graph_rag\backend && ..\venv\Scripts\python.exe -m uvicorn app.main:app --reload"
 
-:: Chờ 3 giây để Backend khởi động xong port và kết nối Neo4j
-timeout /t 3 /nobreak > null
+timeout /t 3 /nobreak > nul
 
-:: 2. KÍCH HOẠT FRONTEND STREAMLIT TRÊN PORT 8501
-echo -> Dang khoi dong Frontend Streamlit Interface...
-start "NGR - Frontend Web" cmd /k "cd /d D:\KHOALUAN9\nutrition_graph_rag\frontend && ..\venv\Scripts\python.exe -m streamlit run app.py"
+echo -^> Đang khởi động Frontend Streamlit Interface...
+start "NGR - Frontend Web" cmd /k "chcp 65001 > nul && set PYTHONUTF8=1&& set PYTHONIOENCODING=utf-8&& set NUTRITION_API_BASE=http://127.0.0.1:8000&& cd /d D:\KHOALUAN9\nutrition_graph_rag\frontend && ..\venv\Scripts\python.exe -m streamlit run app.py"
 
 echo.
 echo ==========================================================
-echo   KICH HOAT THANH CONG! VUI LONG KIEM TRA CA 2 CUA SO.
+echo   KÍCH HOẠT THÀNH CÔNG! VUI LÒNG KIỂM TRA CẢ 2 CỬA SỔ.
 echo ==========================================================
 timeout /t 5

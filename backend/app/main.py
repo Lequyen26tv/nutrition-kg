@@ -185,7 +185,7 @@ def me(authorization: str | None = Header(default=None)):
 @app.get("/chat/history")
 def chat_history(authorization: str | None = Header(default=None)):
     user = get_current_user(authorization)
-    rows = auth_store.list_chat_messages(user["id"])
+    rows = auth_store.list_chat_messages(user["id"], limit=20)
     return {
         "messages": [
             {

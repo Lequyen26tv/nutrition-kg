@@ -21,7 +21,7 @@ load_dotenv(dotenv_path=ENV_PATH)
 # Import sau khi load env
 # =====================================================
 
-from app.services.retrieval import RetrievalService
+from app.services.retrieval_no_localqa import RetrievalService
 from app.eval_disease_dataset import EVAL_DISEASE_DATA
 from app.evaluator.llm_judge import LLMJudge
 from app.evaluator.scorer import NGRScorer
