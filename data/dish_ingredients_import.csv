@@ -1,0 +1,1389 @@
+﻿source_row,dish_id,dish_name,ingredient_id,ingredient_name,quantity,unit,original_quantity
+2,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_rau_muong,Rau muống,500,g,500 g
+3,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_ot_do_to,Ớt đỏ to,2,g,2 g
+4,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_hong_do,Hồng đỏ,200,g,200 g
+5,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+6,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+7,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+8,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_tai_lon,Tai lợn,200,g,200 g
+9,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_vung_den_trang,"Vừng ( Đen, Trắng)",50,g,50 g
+10,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_lac_hat,Lạc Hạt,80,g,80 g
+11,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_rau_thom,Rau thơm,,,
+12,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_duong_cat,Đường cát,10,g,10 g
+13,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_rau_mui,Rau mùi,,,
+14,dish_nom_rau_muong,NỘM RAU MUỐNG,ing_chanh,Chanh,2,quả,150g
+15,dish_canh_cai_cuc_nau_ca_ro,CANH CẢI CÚC NẤU CÁ RÔ,ing_cai_cuc,Cải cúc,500,g,500 g
+16,dish_canh_cai_cuc_nau_ca_ro,CANH CẢI CÚC NẤU CÁ RÔ,ing_nuoc_mam_ca,Nước mắm cá,,,
+17,dish_canh_cai_cuc_nau_ca_ro,CANH CẢI CÚC NẤU CÁ RÔ,ing_ca_ro_dong,Cá rô đồng,300,g,300 g
+18,dish_canh_cai_cuc_nau_ca_ro,CANH CẢI CÚC NẤU CÁ RÔ,ing_muoi,Muối,,,
+19,dish_canh_cai_soong_nau_thit_nac,CANH CẢI SOONG NẤU THỊT NẠC,ing_cai_soong,Cải soong,500,g,500 g
+20,dish_canh_cai_soong_nau_thit_nac,CANH CẢI SOONG NẤU THỊT NẠC,ing_nuoc_mam_ca,Nước mắm cá,,,
+21,dish_canh_cai_soong_nau_thit_nac,CANH CẢI SOONG NẤU THỊT NẠC,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+22,dish_canh_cai_soong_nau_thit_nac,CANH CẢI SOONG NẤU THỊT NẠC,ing_muoi,Muối,,,
+23,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_cai_xanh,Cải xanh,200,g,200 g
+24,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+25,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_thit_lon_nac,Thịt lợn nạc,150,g,150 g
+26,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_nuoc_mam_ca,Nước mắm cá,10,ml,10g
+27,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_trung_ga,Trứng gà,2,quả,100g
+28,dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,ing_muoi,Muối,,,
+29,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_cai_xanh,Cải xanh,300,g,300 g
+30,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_rau_thom,Rau thơm,50,g,50 g
+31,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+32,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_toi_ta,Tỏi ta,30,g,30 g
+33,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_mien_dong,Miến dong,30,g,30 g
+34,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+35,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_mang_kho,Măng khô,50,g,50 g
+36,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+37,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+38,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_nuoc_mam_ca,Nước mắm cá,100,g,100 g
+39,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_cai_cuc,Cải cúc,100,g,100 g
+40,dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,ing_muoi,Muối,,,
+41,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_cai_bap,Cải bắp,300,g,300 g
+42,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+43,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_ca_chua,Cà chua,150,g,150 g
+44,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_rau_mui,Rau mùi,10,g,10 g
+45,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_tep_gao,Tép gạo,100,g,100 g
+46,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_hanh_cu_tuoi,Hành củ tươi,5,g,5 g
+47,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_qua_me_chua,Quả me chua,20,g,20 g
+48,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_muoi,Muối,,,
+49,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_mo_lon_nuoc,Mỡ lợn nước,10,ml,10 g
+50,dish_canh_chua_cai_bap,CANH CHUA Cải bắp,ing_nuoc_mam_ca,Nước mắm cá,,,
+51,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_cai_bap,Cải bắp,500,g,500 g
+52,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_hat_tieu,Hạt tiêu,,,
+53,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_thit_lon_nac,Thịt lợn nạc,300,g,300 g
+54,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+55,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_moc_nhi,Mộc nhĩ,5,g,5 g
+56,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+57,dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,ing_khoai_nuoc,Khoai nước,150,g,150 g
+58,dish_nom_cai_bap,NỘM Cải bắp,ing_cai_bap,Cải bắp,500,g,500 g
+60,dish_nom_cai_bap,NỘM Cải bắp,ing_thit_ga_ta,Thịt gà ta,200,g,200 g
+61,dish_nom_cai_bap,NỘM Cải bắp,ing_muoi,Muối,,,
+62,dish_nom_cai_bap,NỘM Cải bắp,ing_nuoc_mam_ca,Nước mắm cá,10,ml,10g
+63,dish_nom_cai_bap,NỘM Cải bắp,ing_rau_ram,Rau râm,,,
+64,dish_nom_cai_bap,NỘM Cải bắp,ing_duong_cat,Đường cát,,,
+65,dish_nom_cai_bap,NỘM Cải bắp,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+66,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_dua_cai_be,Dưa cải bẹ,500,g,500 g
+67,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_rau_thom,Rau thơm,50,g,50 g
+68,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_ca_tre,Cá trê,400,g,400 g
+69,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_rau_mui,Rau mùi,,,
+70,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_ca_chua,Cà chua,150,g,150 g
+71,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_nuoc_mam_ca,Nước mắm cá,,,
+72,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+73,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+74,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_muoi,Muối,,,
+75,dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,ing_rau_diep,Rau diếp,100,g,100 g
+76,dish_canh_hoa_lo_nau_thit_ga,CANH HOA LƠ NẤU THỊT GÀ,ing_thit_ga_ta,Thịt gà ta,200,g,200 g
+77,dish_canh_hoa_lo_nau_thit_ga,CANH HOA LƠ NẤU THỊT GÀ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+78,dish_canh_hoa_lo_nau_thit_ga,CANH HOA LƠ NẤU THỊT GÀ,ing_nuoc_mam_ca,Nước mắm cá,,,
+79,dish_canh_su_hao_nau_suon,CANH SU HÀO NẤU SƯỜN,ing_su_hao,Su hào,500,g,500 g
+80,dish_canh_su_hao_nau_suon,CANH SU HÀO NẤU SƯỜN,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+81,dish_canh_su_hao_nau_suon,CANH SU HÀO NẤU SƯỜN,ing_suon_lon,Sườn lợn,400,g,400 g
+82,dish_canh_su_hao_nau_suon,CANH SU HÀO NẤU SƯỜN,ing_nuoc_mam_ca,Nước mắm cá,,,
+83,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_su_hao,Su hào,800,g,800 g
+84,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_hat_tieu,Hạt tiêu,,,
+85,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_thit_lon_nac,Thịt lợn nạc,250,g,250 g
+86,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+87,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_toi_ta,Tỏi ta,10,g,10 g
+88,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+89,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_rau_mui,Rau mùi,,,
+90,dish_su_su_ham_thit,SƯ SU HẦM THỊT,ing_moc_nhi,Mộc nhĩ,5,g,5 g
+91,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_su_hao,Su hào,500,g,500 g
+92,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+93,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+94,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_trung_vit,Trứng vịt,2,quả,100g
+95,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_muoi,Muối,,,
+96,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+97,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_rau_mui,Rau mùi,,,
+98,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+99,dish_su_su_xao_trung,SU SU XÀO TRỨNG,ing_hanh_cu_tuoi,Hành củ tươi,,,
+100,dish_nom_su_su,NỘM SU SƯ,ing_su_hao,Su hào,500,g,500 g
+101,dish_nom_su_su,NỘM SU SƯ,ing_toi_ta,Tỏi ta,0,g,0 g
+102,dish_nom_su_su,NỘM SU SƯ,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+103,dish_nom_su_su,NỘM SU SƯ,ing_duong_cat,Đường cát,10,g,10 g
+104,dish_nom_su_su,NỘM SU SƯ,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+105,dish_nom_su_su,NỘM SU SƯ,ing_rau_ram,Rau râm,,,
+106,dish_nom_su_su,NỘM SU SƯ,ing_tom_bien,Tôm biển,100,g,100 g
+107,dish_nom_su_su,NỘM SU SƯ,ing_muoi,Muối,,,
+108,dish_nom_su_su,NỘM SU SƯ,ing_lac_hat,Lạc Hạt,0,g,0 g
+109,dish_nom_su_su,NỘM SU SƯ,ing_nuoc_mam_ca,Nước mắm cá,,,
+110,dish_nom_su_su,NỘM SU SƯ,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+111,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_cu_cai_trang,Củ cải trắng,400,g,400 g
+112,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_nuoc_mam_ca,Nước mắm cá,,,
+113,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_thit_lon_nac,Thịt lợn nạc,300,g,300 g
+114,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_hat_tieu,Hạt tiêu,,,
+115,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+116,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_nam_huong_kho,Nấm hương khô,5,g,5 g
+117,dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,ing_muoi,Muối,,,
+118,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_muop,Mướp,500,g,500 g
+119,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_nuoc_mam_ca,Nước mắm cá,,,
+120,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_rau_day,Rau đay,200,g,200 g
+121,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_muoi,Muối,,,
+122,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_cua_dong,Cua đồng,300,g,300 g
+123,dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",ing_mam_tom_dac,Mắm tôm đăc,5,g,5 g
+124,dish_canh_bau_nau_cua,CANH BẦU NẤU CUA,ing_bau,Bầu,500,g,500 g
+125,dish_canh_bau_nau_cua,CANH BẦU NẤU CUA,ing_muoi,Muối,,,
+126,dish_canh_bau_nau_cua,CANH BẦU NẤU CUA,ing_cua_dong,Cua đồng,300,g,300 g
+127,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_bau,Bầu,500,g,500 g
+128,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+129,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_na,Na,100,g,100 g
+130,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_hat_tieu,Hạt tiêu,,,
+131,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_tom_bien,Tôm biển,150,g,150 g
+132,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+133,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_rau_mui,Rau mùi,,,
+134,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+135,dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,ing_muoi,Muối,,,
+136,dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,ing_dua_hong,Dưa hồng,400,g,400 g
+137,dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,ing_rau_mui,Rau mùi,10,g,10 g
+138,dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,ing_ca_ro_dong,Cá rô đồng,300,g,300 g
+139,dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,ing_hat_tieu,Hạt tiêu,,,
+140,dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+141,dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,ing_muop_dang,Mướp đắng,500,g,500 g
+142,dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),20,g,20 g
+143,dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,ing_thit_lon_nac,Thịt lợn nạc,300,g,300 g
+144,dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,ing_hat_tieu,Hạt tiêu,,,
+145,dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+146,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_muop,Mướp,500,g,500 g
+147,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+148,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_tom_bien,Tôm biển,100,g,100 g
+149,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+150,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+151,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_hat_tieu,Hạt tiêu,,,
+152,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_moc_nhi,Mộc nhĩ,5,g,5 g
+153,dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,ing_nam_huong_kho,Nấm hương khô,5,g,5 g
+154,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_muop_dang,Mướp đắng,500,g,500 g
+155,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+156,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_trung_vit,Trứng vịt,2,quả,100g
+157,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+158,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_hat_tieu,Hạt tiêu,,,
+159,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+160,dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,ing_rau_mui,Rau mùi,,,
+161,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_muop,Mướp,500,g,500 g
+162,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+163,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_thit_bo_loai_i,Thịt bò loại I,200,g,200 g
+164,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_hat_tieu,Hạt tiêu,,,
+165,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+166,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_toi_ta,Tỏi ta,10,g,10 g
+167,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_rau_mui,Rau mùi,,,
+168,dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+169,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_bi_dao_bi_xanh,Bí đao( bí xanh),300,g,300 g
+170,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),20,g,20 g
+171,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_tom_bien,Tôm biển,100,g,100 g
+172,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_vai,Vải,100,g,100 g
+173,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_muoi,Muối,,,
+174,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_duong_cat,Đường cát,2,g,2 g
+175,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_rau_mui,Rau mùi,,,
+176,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+177,dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+178,dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,150,g,150 g
+179,dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,ing_tom_bien,Tôm biển,300,g,300 g
+180,dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),20,g,20 g
+181,dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+182,dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+183,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_bi_ngo,Bí ngô,500,g,500 g
+184,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+185,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_tom_bien,Tôm biển,100,g,100 g
+186,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+187,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_toi_ta,Tỏi ta,10,g,10 g
+188,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_mo_lon_nuoc,Mỡ lợn nước,50,ml,50 g
+189,dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,ing_muoi,Muối,,,
+190,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_bi_ngo,Bí ngô,500,g,500 g
+191,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_duong_cat,Đường cát,5,g,5 g
+192,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_lac_hat,Lạc Hạt,200,g,200 g
+193,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_muoi,Muối,,,
+194,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_cui_dua_gia,Cùi dừa giả,300,g,300 g
+195,dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,ing_rau_mui,Rau mùi,,,
+196,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_dau_dua,Dầu dừa,500,g,500 g
+197,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_xi_dau,Xì dầu,5,g,5 g
+198,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+199,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_nuoc_mam_ca,Nước mắm cá,5,ml,5 g
+200,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_mo_lon_nuoc,Mỡ lợn nước,50,ml,50 g
+201,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+202,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_rau_mui,Rau mùi,,,
+203,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_dao,Đào,5,g,5 g
+204,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_muoi,Muối,,,
+205,dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,ing_toi_ta,Tỏi ta,10,g,10 g
+206,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_dua_chuot,Dưa chuột,500,g,500 g
+207,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_dao,Đào,10,g,10 g
+208,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+209,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_mo_lon_nuoc,Mỡ lợn nước,20,ml,20 g
+210,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_tom_bien,Tôm biển,100,g,100 g
+211,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_nuoc_mam_ca,Nước mắm cá,,,
+212,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_hanh_tay,Hành tây,100,g,100 g
+213,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+214,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_ca_chua,Cà chua,100,g,100 g
+215,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_muoi,Muối,,,
+216,dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,ing_duong_cat,Đường cát,10,g,10 g
+217,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_dua_chuot,Dưa chuột,1000,g,1000 g
+218,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_ot_do_to,Ớt đỏ to,15,g,15 g
+219,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+220,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+221,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_tom_bien,Tôm biển,100,g,100 g
+222,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_duong_cat,Đường cát,20,g,20 g
+223,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+224,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_nuoc_mam_ca,Nước mắm cá,,,
+225,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_vung_den_trang,"Vừng ( Đen, Trắng)",50,g,50 g
+226,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_rau_thom,Rau thơm,,,
+227,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_lac_hat,Lạc Hạt,50,g,50 g
+228,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_chanh,Chanh,50,g,50 g
+229,dish_nom_dua_chuot,NỘM DƯA CHUỘT,ing_muoi,Muối,,,
+230,dish_nom_u_du,NỘM ÐU ĐỦ,ing_du_du_xanh,Đu đủ xanh,20,g,20 g
+231,dish_nom_u_du,NỘM ÐU ĐỦ,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+232,dish_nom_u_du,NỘM ÐU ĐỦ,ing_tom_bien,Tôm biển,200,g,200 g
+233,dish_nom_u_du,NỘM ÐU ĐỦ,ing_rau_ram,Rau râm,20,g,20 g
+234,dish_nom_u_du,NỘM ÐU ĐỦ,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+235,dish_nom_u_du,NỘM ÐU ĐỦ,ing_rau_thom,Rau thơm,10,g,10 g
+236,dish_nom_u_du,NỘM ÐU ĐỦ,ing_lac_hat,Lạc Hạt,100,g,100 g
+237,dish_nom_u_du,NỘM ÐU ĐỦ,ing_nuoc_mam_ca,Nước mắm cá,,,
+238,dish_nom_u_du,NỘM ÐU ĐỦ,ing_duong_kinh,Đường kính,20,g,20 g
+239,dish_nom_u_du,NỘM ÐU ĐỦ,ing_muoi,Muối,,,
+240,dish_nom_u_du,NỘM ÐU ĐỦ,ing_chanh,Chanh,150,g,100 g
+241,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_ca_chua,Cà chua,500,g,500 g
+242,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+243,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_hat_tieu,Hạt tiêu,,,
+244,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_vai,Vải,300,g,300 g
+245,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+246,dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,ing_duong_kinh,Đường kính,,,
+247,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_ca_chua,Cà chua,8,quả,800g
+248,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+249,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+250,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_duong_cat,Đường cát,4,g,4 g
+251,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_tom_bien,Tôm biển,100,g,100 g
+252,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_hat_tieu,Hạt tiêu,2,g,2 g
+253,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_trung_vit,Trứng vịt,1,quả,50g
+254,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_rau_mui,Rau mùi,,,
+255,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+256,dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,ing_toi_ta,Tỏi ta,10,g,10 g
+257,dish_ca_tim_bung,CÀ TÍM BUNG,ing_ca_tim,Cà tím,600,g,600 g
+258,dish_ca_tim_bung,CÀ TÍM BUNG,ing_vung_den_trang,"Vừng ( Đen, Trắng)",,,
+259,dish_ca_tim_bung,CÀ TÍM BUNG,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+260,dish_ca_tim_bung,CÀ TÍM BUNG,ing_tia_to,Tía tô,20,g,20 g
+261,dish_ca_tim_bung,CÀ TÍM BUNG,ing_dau_phu,Đậu phụ,200,g,200 g
+262,dish_ca_tim_bung,CÀ TÍM BUNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+263,dish_ca_tim_bung,CÀ TÍM BUNG,ing_ca_chua,Cà chua,200,g,200 g
+264,dish_ca_tim_bung,CÀ TÍM BUNG,ing_toi_ta,Tỏi ta,20,g,20 g
+265,dish_ca_tim_bung,CÀ TÍM BUNG,ing_khoai_nuoc,Khoai nước,50,g,50 g
+266,dish_ca_tim_bung,CÀ TÍM BUNG,ing_muoi,Muối,,,
+267,dish_ca_tim_bung,CÀ TÍM BUNG,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+268,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_ca_tim,Cà tím,500,g,500 g
+269,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+270,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+271,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+272,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_trung_ga,Trứng gà,1,quả,50 g
+273,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_chanh,Chanh,10,g,10 g
+274,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_bot_gao_nep,Bột gạo nếp,100,g,100 g
+275,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_muoi,Muối,,,
+276,dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,ing_toi_ta,Tỏi ta,5,g,5 g
+277,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_ca_tim,Cà tím,500,g,500 g
+278,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),5,g,5 g
+279,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_vai,Vải,100,g,100 g
+280,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_tia_to,Tía tô,10,g,10 g
+281,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_ca_chua,Cà chua,100,g,100 g
+282,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+283,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+284,dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,ing_muoi,Muối,,,
+285,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_he_la,Hẹ lá,100,g,100 g
+286,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+287,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+288,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_muoi,Muối,,,
+289,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_tim_lon,Tim lợn,100,g,100 g
+290,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_dau_phu,Đậu phụ,200,g,200 g
+291,dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+292,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_mang_chua,Măng chua,500,g,500 g
+293,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_toi_ta,Tỏi ta,10,g,10 g
+294,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_tom_bien,Tôm biển,200,g,200 g
+295,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_nuoc_mam_ca,Nước mắm cá,5,ml,5 g
+296,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+297,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+298,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_hat_tieu,Hạt tiêu,,,
+299,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+300,dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,ing_muoi,Muối,,,
+301,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_mang_chua,Măng chua,400,g,400 g
+302,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_nuoc_mam_ca,Nước mắm cá,5,ml,5 g
+303,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+304,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+305,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_muoi,Muối,,,
+306,dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+307,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_mang_tre,Măng tre,500,g,500 g
+308,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_rau_mui,Rau mùi,10,g,10 g
+309,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_thit_ga_ta,Thịt gà ta,200,g,200 g
+310,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_nuoc_mam_ca,Nước mắm cá,,,
+311,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_tom_bien,Tôm biển,100,g,100 g
+312,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_hat_tieu,Hạt tiêu,,,
+313,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_hanh_cu_tuoi,Hành củ tươi,0,g,0 g
+314,dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,ing_muoi,Muối,,,
+315,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_mang_tre,Măng tre,500,g,500 g
+316,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_chanh,Chanh,3,g,3 g
+317,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+318,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+319,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+320,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_mo_lon_nuoc,Mỡ lợn nước,70,g,70 g
+321,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+322,dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,ing_muoi,Muối,,,
+323,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_mang_chua,Măng chua,500,g,500 g
+324,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+325,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_vung_den_trang,"Vừng ( Đen, Trắng)",60,g,60 g
+326,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_nuoc_mam_ca,Nước mắm cá,,,
+327,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+328,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_chanh,Chanh,3,g,3 g
+329,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+330,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+331,dish_nom_mang_chua,NỘM MĂNG CHUA,ing_muoi,Muối,,,
+332,dish_canh_dau_xanh,CANH ĐẬU XANH,ing_dau_xanh_dau_tat,Đậu xanh ( Đậu tắt),200,g,200 g
+333,dish_canh_dau_xanh,CANH ĐẬU XANH,ing_nuoc_mam_ca,Nước mắm cá,20,ml,20 g
+334,dish_canh_dau_xanh,CANH ĐẬU XANH,ing_muoi,Muối,,,
+335,dish_canh_dau_xanh,CANH ĐẬU XANH,ing_thia_la,Thìa là,10,g,10 g
+336,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_thit_ga_ta,Thịt gà ta,400,g,400 g
+337,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+338,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_dau_trang_hat_dau_tay,Đậu trắng hạt (Đậu tây),900,g,900 g
+339,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_nuoc_mam_ca,Nước mắm cá,,,
+340,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_ca_chua,Cà chua,100,g,100 g
+341,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+342,dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,ing_muoi,Muối,,,
+343,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_dau_phu,Đậu phụ,400,g,400 g
+344,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_nuoc_mam_ca,Nước mắm cá,,,
+345,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_ca_chua,Cà chua,180,g,180 g
+346,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_tuy_xuong_lon,Tủy xương lợn,500,g,500 g
+347,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_muoi,Muối,,,
+348,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+349,dish_canh_dau_phu,CANH ĐẬU PHỤ,ing_rau_mui,Rau mùi,5,g,5 g
+350,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_dau_phu,Đậu phụ,500,g,500 g
+351,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_xi_dau,Xì dầu,,,
+352,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_trung_vit,Trứng vịt,2,quả,100 g
+353,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+354,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+355,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_hat_tieu,Hạt tiêu,,,
+356,dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+357,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_dau_phu,Đậu phụ,500,g,500 g
+358,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_xi_dau,Xì dầu,,,
+359,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_trung_vit,Trứng vịt,2,quả,100 g
+360,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+361,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+362,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_hat_tieu,Hạt tiêu,,,
+363,dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+364,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_dau_phu,Đậu phụ,400,g,400 g
+365,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+366,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",200,g,200 g
+367,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_duong_cat,Đường cát,,,
+368,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_khoai_nuoc,Khoai nước,100,g,100 g
+369,dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+370,dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,ing_dau_phu,Đậu phụ,300,g,300 g
+371,dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+372,dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+373,dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,ing_muoi,Muối,,,
+374,dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+375,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_dau_phu,Đậu phụ,500,g,500 g
+376,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+377,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+378,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+379,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_trung_vit,Trứng vịt,2,quả,100 g
+380,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+381,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,200,g,200 g
+382,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_bot_gao_nep,Bột gạo nếp,20,g,20 g
+383,dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,ing_chanh,Chanh,10,g,10 g
+384,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_cu_nieng,Củ niễng,600,g,600 g
+385,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+386,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_ruoi,Rươi,500,g,500 g
+387,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_nuoc_mam_ca,Nước mắm cá,,,
+388,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",100,g,100 g
+389,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_la_lot,Lá Lốt,,,
+390,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_hat_tieu,Hạt tiêu,,,
+391,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_gung_tuoi,Gừng tươi,20,g,20 g
+392,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+393,dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,ing_rau_mui,Rau mùi,,,
+394,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_cu_khoai_mo,Củ khoai mỡ,700,g,700 g
+395,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_tom_bien,Tôm biển,150,g,150 g
+396,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_hat_tieu,Hạt tiêu,,,
+397,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+398,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_rau_mui,Rau mùi,,,
+399,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_nuoc_mam_ca,Nước mắm cá,,,
+400,dish_canh_khoai_mo,CANH KHOAI MỠ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+401,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_hat_tieu,Hạt tiêu,,,
+402,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_thit_lon_mo,Thịt lợn mỡ,200,g,200 g
+403,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_nuoc_mam_ca,Nước mắm cá,,,
+404,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+405,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_trung_vit,Trứng vịt,2,quả,100 g
+406,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_hanh_cu_tuoi,Hành củ tươi,,,
+407,dish_cha_khoai_mon,CHẢ KHOAI MÔN,ing_mo_lon_nuoc,Mỡ lợn nước,200,g,200 g
+408,dish_nam_nau_canh,NẤM NẤU CANH,ing_nam_rom,Nấm rơm,100,g,100 g
+409,dish_nam_nau_canh,NẤM NẤU CANH,ing_hat_tieu,Hạt tiêu,,,
+410,dish_nam_nau_canh,NẤM NẤU CANH,ing_gan_lon,Gan lợn,100,g,100 g
+411,dish_nam_nau_canh,NẤM NẤU CANH,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+412,dish_nam_nau_canh,NẤM NẤU CANH,ing_mien_dong,Miến dong,100,g,100 g
+413,dish_nam_nau_canh,NẤM NẤU CANH,ing_rau_mui,Rau mùi,,,
+414,dish_nam_nau_canh,NẤM NẤU CANH,ing_nuoc_mam_ca,Nước mắm cá,5,g,5 g
+415,dish_nam_bao_gio,NẤM BAO GIÒ,ing_nam_rom,Nấm rơm,100,g,100 g
+416,dish_nam_bao_gio,NẤM BAO GIÒ,ing_thit_ga_ta,Thịt gà ta,1500,g,1500 g
+417,dish_nam_bao_gio,NẤM BAO GIÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+418,dish_nam_bao_gio,NẤM BAO GIÒ,ing_hanh_tay,Hành tây,30,g,30 g
+419,dish_nam_bao_gio,NẤM BAO GIÒ,ing_rau_mui,Rau mùi,,,
+420,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_ngo_sen,Ngó sen,500,g,500 g
+421,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_nuoc_mam_ca,Nước mắm cá,,,
+422,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+423,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_ot_do_to,Ớt đỏ to,,,
+424,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_tom_bien,Tôm biển,100,g,100 g
+425,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_duong_cat,Đường cát,,,
+426,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_lac_hat,Lạc Hạt,50,g,50 g
+427,dish_nom_ngo_sen,NỘM NGÓ SEN,ing_rau_ram,Rau râm,,,
+428,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_qua_coc,Quả cóc,80,quả,80 g
+429,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_can_tay,Cần tây,100,g,100 g
+430,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_tom_bien,Tôm biển,300,g,300 g
+431,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_hanh_tay,Hành tây,100,g,100 g
+432,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+433,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_duong_kinh,Đường kính,20,g,20 g
+434,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_da_day_lon,Dạ dày lợn,300,g,300 g
+435,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_lac_hat,Lạc Hạt,200,g,200 g
+436,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_mo_lon_nuoc,Mỡ lợn nước,200,g,200 g
+437,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_nuoc_mam_ca,Nước mắm cá,,,
+438,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+439,dish_nom_qua_coc,NỘM QUÁ CÓC,ing_banh_phong_tom_ran,Bánh phồng tôm rán,,,
+440,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_hoa_chuoi,Hoa chuối,500,g,500 g
+441,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_chanh,Chanh,40,g,40 g
+442,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_tom_bien,Tôm biển,50,g,50 g
+443,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_duong_cat,Đường cát,20,g,20 g
+444,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_vai,Vải,100,g,100 g
+445,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_nuoc_mam_ca,Nước mắm cá,,,
+446,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_tai_lon,Tai lợn,100,g,100 g
+447,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_vung_den_trang,"Vừng ( Đen, Trắng)",30,g,30 g
+448,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_rau_thom,Rau thơm,,,
+449,dish_nom_hoa_chuoi,NỘM HOA CHUỐI,ing_lac_hat,Lạc Hạt,50,g,50 g
+450,dish_lac_da_ca,LẠC DA CÁ,ing_lac_hat,Lạc Hạt,500,g,500 g
+451,dish_lac_da_ca,LẠC DA CÁ,ing_bot_gao_nep,Bột gạo nếp,300,g,300 g
+452,dish_lac_da_ca,LẠC DA CÁ,ing_muoi,Muối,30,g,30 g
+453,dish_lac_da_ca,LẠC DA CÁ,ing_mo_lon_nuoc,Mỡ lợn nước,,,
+454,dish_lac_da_ca,LẠC DA CÁ,ing_duong_cat,Đường cát,100,g,100 g
+455,dish_lac_da_ca,LẠC DA CÁ,ing_muoi,Muối,,,
+456,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_ca_qua,Cá quả,300,g,300 g
+457,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+458,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_qua_doc,Quả doc,80,g,80 g
+459,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_rau_diep,Rau diếp,900,g,900 g
+460,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+461,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_rau_mui,Rau mùi,50,g,50 g
+462,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_doc_mung,Dọc mùng,200,g,200 g
+463,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_thia_la,Thìa là,50,g,50 g
+464,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_nghe_tuoi,Nghệ tươi,5,g,5 g
+465,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_ca_chua,Cà chua,100,g,100 g
+466,dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,ing_nuoc_mam_ca,Nước mắm cá,,,
+467,dish_canh_chua_ca,CANH CHUA CÁ,ing_ca_qua,Cá quả,300,g,300 g
+468,dish_canh_chua_ca,CANH CHUA CÁ,ing_rau_mui,Rau mùi,20,g,20 g
+469,dish_canh_chua_ca,CANH CHUA CÁ,ing_ca_chua,Cà chua,100,g,100 g
+470,dish_canh_chua_ca,CANH CHUA CÁ,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+471,dish_canh_chua_ca,CANH CHUA CÁ,ing_doc_mung,Dọc mùng,100,g,100 g
+472,dish_canh_chua_ca,CANH CHUA CÁ,ing_duong_cat,Đường cát,10,g,10 g
+473,dish_canh_chua_ca,CANH CHUA CÁ,ing_gia_dau_xanh,Giá đậu xanh,50,g,50 g
+474,dish_canh_chua_ca,CANH CHUA CÁ,ing_nuoc_mam_ca,Nước mắm cá,,,
+475,dish_canh_chua_ca,CANH CHUA CÁ,ing_nhot,Nhót,,,
+476,dish_canh_chua_ca,CANH CHUA CÁ,ing_qua_me_chua,Quả me chua,0,g,0 g
+477,dish_canh_chua_ca,CANH CHUA CÁ,ing_rau_ngo,Rau ngố,30,g,30 g
+478,dish_canh_chua_ca,CANH CHUA CÁ,ing_muoi,Muối,,,
+479,dish_canh_chua_ca,CANH CHUA CÁ,ing_hat_tieu,Hạt tiêu,,,
+480,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_ca_ro_dong,Cá rô đồng,300,g,300 g
+481,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_nuoc_mam_ca,Nước mắm cá,,,
+482,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+483,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_muoi,Muối,,,
+484,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_rau_ram,Rau râm,20,g,20 g
+485,dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,ing_hat_tieu,Hạt tiêu,,,
+486,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_ca_qua,Cá quả,300,g,300 g
+487,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_rau_mui,Rau mùi,20,g,20 g
+488,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_dua_ta,Dứa ta,150,g,150 g
+489,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_nuoc_mam_ca,Nước mắm cá,,,
+490,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+491,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+492,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_hat_tieu,Hạt tiêu,,,
+493,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+494,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_muoi,Muối,,,
+495,dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,ing_gung_tuoi,Gừng tươi,5,g,5 g
+496,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_ca_ro_dong,Cá rô đồng,20,g,20 g
+497,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_mien_dong,Miến dong,60,g,60 g
+498,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_nuoc_mam_ca,Nước mắm cá,,,
+499,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_nam_huong_kho,Nấm hương khô,5,g,5 g
+500,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_muoi,Muối,,,
+501,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+502,dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,ing_hat_tieu,Hạt tiêu,,,
+503,dish_canh_ca_am,CANH CÁ ÁM,ing_ca_qua,Cá quả,300,g,300 g
+504,dish_canh_ca_am,CANH CÁ ÁM,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+505,dish_canh_ca_am,CANH CÁ ÁM,ing_thit_lon_nac,Thịt lợn nạc,50,g,50 g
+506,dish_canh_ca_am,CANH CÁ ÁM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+507,dish_canh_ca_am,CANH CÁ ÁM,ing_can_ta,Cần ta,100,g,100 g
+508,dish_canh_ca_am,CANH CÁ ÁM,ing_nuoc_mam_ca,Nước mắm cá,,,
+509,dish_canh_ca_am,CANH CÁ ÁM,ing_cai_cuc,Cải cúc,100,g,100 g
+510,dish_canh_ca_am,CANH CÁ ÁM,ing_muoi,Muối,,,
+511,dish_canh_ca_am,CANH CÁ ÁM,ing_thia_la,Thìa là,30,g,30 g
+512,dish_canh_ca_am,CANH CÁ ÁM,ing_hat_tieu,Hạt tiêu,,,
+513,dish_ca_au,CÁ AU,ing_ca_qua,Cá quả,300,g,300 g
+514,dish_ca_au,CÁ AU,ing_vung_den_trang,"Vừng ( Đen, Trắng)",50,g,50 g
+515,dish_ca_au,CÁ AU,ing_cai_cuc,Cải cúc,100,g,100 g
+516,dish_ca_au,CÁ AU,ing_nuoc_mam_ca,Nước mắm cá,,,
+517,dish_ca_au,CÁ AU,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+518,dish_ca_au,CÁ AU,ing_muoi,Muối,,,
+519,dish_ca_au,CÁ AU,ing_thia_la,Thìa là,20,g,20 g
+520,dish_ca_au,CÁ AU,ing_ca_chua,Cà chua,50,g,50 g
+521,dish_ca_au,CÁ AU,ing_hat_tieu,Hạt tiêu,,,
+522,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_ca_tram_co,Cá trắm cỏ,300,g,300 g
+523,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_duong_cat,Đường cát,5,g,5 g
+524,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_tom_bien,Tôm biển,100,g,100 g
+525,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_rau_xa_lach,Rau xà lách,100,g,100 g
+526,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_bau_duc_lon,Bầu dục lợn,50,g,50 g
+527,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_ot_do_to,Ớt đỏ to,10,g,10 g
+528,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_tim_lon,Tim lợn,50,g,50 g
+529,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_rau_mui,Rau mùi,20,g,20 g
+530,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_banh_da_nem,Bánh đa nem,20,cái,20 cái
+531,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_gung_tuoi,Gừng tươi,20,g,20 g
+532,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_nuoc_dua_non_tuoi,Nước dừa non tươi,200,ml,200g
+533,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_nuoc_mam_ca,Nước mắm cá,,,
+534,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_tuong_ngo,Tương ngô,30,ml,30 g
+535,dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",ing_muoi,Muối,,,
+536,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_ca_qua,Cá quả,500,g,500 g
+537,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_nuoc_mam_ca,Nước mắm cá,,,
+538,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_cu_cai_trang,Củ cải trắng,300,g,300 g
+539,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_muoi,Muối,,,
+540,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_duong_cat,Đường cát,30,g,30 g
+541,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+542,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_hat_tieu,Hạt tiêu,,,
+543,dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+544,dish_ca_kho_dua,CÁ KHO DỨA,ing_ca_qua,Cá quả,500,g,500 g
+545,dish_ca_kho_dua,CÁ KHO DỨA,ing_nuoc_mam_ca,Nước mắm cá,,,
+546,dish_ca_kho_dua,CÁ KHO DỨA,ing_dua_ta,Dứa ta,300,g,300 g
+547,dish_ca_kho_dua,CÁ KHO DỨA,ing_muoi,Muối,,,
+548,dish_ca_kho_dua,CÁ KHO DỨA,ing_duong_cat,Đường cát,20,g,20 g
+549,dish_ca_kho_dua,CÁ KHO DỨA,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+550,dish_ca_kho_dua,CÁ KHO DỨA,ing_hat_tieu,Hạt tiêu,,,
+551,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_ca_qua,Cá quả,500,g,500 g
+552,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_toi_ta,Tỏi ta,10,g,10 g
+553,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_nuoc_dua_hop,Nước dứa hộp,900,g,900 g
+554,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_nuoc_mam_ca,Nước mắm cá,,,
+555,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_duong_cat,Đường cát,20,g,20 g
+556,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_muoi,Muối,,,
+557,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+558,dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,ing_hat_tieu,Hạt tiêu,,,
+559,dish_ca_chim_kho,CÁ CHIM KHO,ing_ca_nac,Cá nạc,500,g,500 g
+560,dish_ca_chim_kho,CÁ CHIM KHO,ing_nuoc_mam_ca,Nước mắm cá,,,
+561,dish_ca_chim_kho,CÁ CHIM KHO,ing_rieng,Riềng,60,g,60 g
+562,dish_ca_chim_kho,CÁ CHIM KHO,ing_muoi,Muối,,,
+563,dish_ca_chim_kho,CÁ CHIM KHO,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+564,dish_ca_chim_kho,CÁ CHIM KHO,ing_hat_tieu,Hạt tiêu,,,
+565,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_ca_chep,Cá chép,700,g,700 g
+566,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_duong_cat,Đường cát,20,g,20 g
+567,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_rieng,Riềng,100,g,100 g
+568,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+569,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+570,dish_ca_kho_rieng,CÁ KHO RIỀNG,ing_hat_tieu,Hạt tiêu,,,
+571,dish_ca_kho_rim,CÁ KHÔ RIM,ing_ca_thu,Cá thu,300,g,300 g
+572,dish_ca_kho_rim,CÁ KHÔ RIM,ing_toi_ta,Tỏi ta,15,g,15 g
+573,dish_ca_kho_rim,CÁ KHÔ RIM,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+574,dish_ca_kho_rim,CÁ KHÔ RIM,ing_gung_tuoi,Gừng tươi,20,g,20 g
+575,dish_ca_kho_rim,CÁ KHÔ RIM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+576,dish_ca_kho_rim,CÁ KHÔ RIM,ing_nuoc_mam_ca,Nước mắm cá,,,
+577,dish_ca_kho_rim,CÁ KHÔ RIM,ing_duong_cat,Đường cát,20,g,20 g
+578,dish_ca_kho_rim,CÁ KHÔ RIM,ing_hat_tieu,Hạt tiêu,,,
+579,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_ca_qua,Cá quả,500,g,500 g
+580,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_toi_ta,Tỏi ta,20,g,20 g
+581,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_rieng,Riềng,50,g,50 g
+582,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_rau_ram,Rau râm,,,
+583,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_vung_den_trang,"Vừng ( Đen, Trắng)",50,g,50 g
+584,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_nuoc_mam_ca,Nước mắm cá,,,
+585,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_nghe_tuoi,Nghệ tươi,20,g,20 g
+586,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_muoi,Muối,,,
+587,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+588,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_hanh_cu_tuoi,Hành củ tươi,40,g,40 g
+589,dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,ing_hat_tieu,Hạt tiêu,,,
+590,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_dao,Đào,20,g,20 g
+591,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_lap_xuong,Lạp xưởng,50,g,50 g
+592,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_duong_cat,Đường cát,20,g,20 g
+593,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_gan_lon,Gan lợn,50,g,50 g
+594,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_rau_mui,Rau mùi,50,g,50 g
+595,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+596,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_nuoc_mam_ca,Nước mắm cá,,,
+597,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+598,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_muoi,Muối,,,
+599,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+600,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_hat_tieu,Hạt tiêu,,,
+601,dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,ing_trung_ga,Trứng gà,90,g,90 g
+602,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_ca_qua,Cá quả,600,g,600 g
+603,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_duong_cat,Đường cát,,,
+604,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_ca_chua,Cà chua,200,g,200 g
+605,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_can_tay,Cần tây,100,g,100 g
+606,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_toi_ta,Tỏi ta,5,g,5 g
+607,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_kieu_muoi,Kiệu muối,100,g,100 g
+608,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_nuoc_mam_ca,Nước mắm cá,,,
+609,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+610,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_muoi,Muối,,,
+611,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_dao,Đào,35,g,35 g
+612,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+613,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_hat_tieu,Hạt tiêu,,,
+614,dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,ing_gung_tuoi,Gừng tươi,20,g,20 g
+615,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_ca_qua,Cá quả,1,con,1 con
+616,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+617,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+618,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+619,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+620,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_nuoc_mam_ca,Nước mắm cá,,,
+621,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+622,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_muoi,Muối,,,
+623,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",0,g,0 g
+624,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_gung_tuoi,Gừng tươi,30,g,30 g
+625,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_hat_tieu,Hạt tiêu,,,
+626,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+627,dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,ing_rau_mui,Rau mùi,,,
+628,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_ca_qua,Cá quả,800,g,800 g
+629,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_toi_ta,Tỏi ta,,,
+630,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_vai,Vải,150,g,150 g
+631,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_cui_dua_gia,Cùi dừa giả,200,g,200 g
+632,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_ca_bong,Cá bống,50,g,50 g
+633,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_gung_tuoi,Gừng tươi,20,g,20 g
+634,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_muc_kho,Mực khô,50,g,50 g
+635,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),20,ml,20 g
+636,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+637,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+638,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_mien_dong,Miến dong,30,g,30 g
+639,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_rau_mui,Rau mùi,30,g,30 g
+640,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+641,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_duong_cat,Đường cát,,,
+642,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+643,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+644,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_muoi,Muối,,,
+645,dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,ing_lac_hat,Lạc Hạt,50,g,50 g
+646,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_ca_trich,Cá trích,300,g,300 g
+647,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_gung_tuoi,Gừng tươi,20,g,20 g
+648,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+649,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+650,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_hat_tieu,Hạt tiêu,,,
+651,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_duong_cat,Đường cát,90,g,90 g
+652,dish_ca_kho_hap,CÁ KHÔ HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+653,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_ca_rot_kho,Cà rốt khô,300,g,300 g
+654,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_duong_cat,Đường cát,20,g,20 g
+655,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",200,g,200 g
+656,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_ot_do_to,Ớt đỏ to,,,
+657,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_trung_ga,Trứng gà,90,g,90 g
+658,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+659,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+660,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_gung_tuoi,Gừng tươi,20,g,20 g
+661,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_hat_tieu,Hạt tiêu,,,
+662,dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,ing_toi_ta,Tỏi ta,20,g,20 g
+663,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_ca_qua,Cá quả,500,g,500 g
+664,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+666,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_dao,Đào,20,g,20 g
+667,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+668,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_rau_mui,Rau mùi,30,g,30 g
+669,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_dau_ha_lan,Đậu Hà Lan,200,g,200 g
+670,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_nuoc_mam_ca,Nước mắm cá,,,
+671,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",50,g,50 g
+672,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_muoi,Muối,,,
+673,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+674,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_gung_tuoi,Gừng tươi,20,g,20 g
+675,dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,ing_hat_tieu,Hạt tiêu,,,
+676,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_ca_thu,Cá thu,500,g,500 g
+677,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_ot_do_to,Ớt đỏ to,20,g,20 g
+678,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_bot_mi,Bột mì,30,g,30 g
+679,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+680,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_trung_ga,Trứng gà,2,quả,100 g
+681,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_muoi,Muối,,,
+682,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,80,g,80 g
+683,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+684,dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,ing_hat_tieu,Hạt tiêu,,,
+685,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_com,Cốm,500,g,500 g
+686,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+687,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_trung_ga,Trứng gà,1,quả,50 g
+688,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+689,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_bot_mi,Bột mì,100,g,100 g
+690,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_muoi,Muối,,,
+691,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,80,g,80 g
+692,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_duong_cat,Đường cát,20,g,20 g
+693,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_hat_tieu,Hạt tiêu,,,
+694,dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,ing_toi_ta,Tỏi ta,,,
+695,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_ca_chep,Cá chép,800,g,800 g
+696,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",50,g,50 g
+697,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_thit_lon_nac,Thịt lợn nạc,150,g,150 g
+698,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_thia_la,Thìa là,30,g,30 g
+699,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+700,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_banh_pho,Bánh phở,50,g,50 g
+701,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+702,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_nuoc_mam_ca,Nước mắm cá,,,
+703,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+704,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_muoi,Muối,,,
+705,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_muoi,Muối,20,g,20 g
+706,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_dao,Đào,20,g,20 g
+707,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_hat_tieu,Hạt tiêu,,,
+708,dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+709,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_rau_mui,Rau mùi,,,
+710,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_vung_den_trang,"Vừng ( Đen, Trắng)",600,g,600 g
+711,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_nuoc_mam_ca,Nước mắm cá,,,
+712,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_mo_lon_nuoc,Mỡ lợn nước,80,g,80 g
+713,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_muoi,Muối,,,
+714,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_ca_chua,Cà chua,200,g,200 g
+715,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+716,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_hat_tieu,Hạt tiêu,,,
+717,dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,ing_dao,Đào,20,g,20 g
+718,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_ca_qua,Cá quả,1000,g,1000 g
+719,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+720,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_thit_lon_mo,Thịt lợn mỡ,150,g,150 g
+721,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_chanh,Chanh,30,g,30 g
+722,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+723,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+724,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_trung_ga,Trứng gà,1,quả,50 g
+725,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+726,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_rieng,Riềng,30,g,30 g
+727,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_muoi,Muối,,,
+728,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_thia_la,Thìa là,30,g,30 g
+729,dish_cha_ca_ran,CHẢ CÁ RÁN,ing_hat_tieu,Hạt tiêu,,,
+730,dish_ca_nuong,CÁ NƯỚNG,ing_ca_qua,Cá quả,0,g,00 g
+731,dish_ca_nuong,CÁ NƯỚNG,ing_banh_da_nem,Bánh đa nem,100,g,100 g
+732,dish_ca_nuong,CÁ NƯỚNG,ing_tuong_ngo,Tương ngô,100,g,100 g
+733,dish_ca_nuong,CÁ NƯỚNG,ing_rau_mui,Rau mùi,50,g,50 g
+734,dish_ca_nuong,CÁ NƯỚNG,ing_lac_hat,Lạc Hạt,80,g,80 g
+735,dish_ca_nuong,CÁ NƯỚNG,ing_dua_chuot,Dưa chuột,200,g,200 g
+736,dish_ca_nuong,CÁ NƯỚNG,ing_gao_nep_cai,Gạo nếp cái,50,g,50 g
+737,dish_ca_nuong,CÁ NƯỚNG,ing_rau_hung,Rau húng,50,g,50 g
+738,dish_ca_nuong,CÁ NƯỚNG,ing_duong_cat,Đường cát,30,g,30 g
+739,dish_ca_nuong,CÁ NƯỚNG,ing_hong_do,Hồng đỏ,100,g,100 g
+740,dish_ca_nuong,CÁ NƯỚNG,ing_hanh_cu_tuoi,Hành củ tươi,100,g,100 g
+741,dish_ca_nuong,CÁ NƯỚNG,ing_he_la,Hẹ lá,50,g,50 g
+742,dish_ca_nuong,CÁ NƯỚNG,ing_rau_xa_lach,Rau xà lách,200,g,200 g
+743,dish_ca_nuong,CÁ NƯỚNG,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+744,dish_ca_nuong,CÁ NƯỚNG,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+746,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_ca_chep,Cá chép,1000,g,1000 g
+747,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_hanh_cu_tuoi,Hành củ tươi,100,g,100 g
+748,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+749,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_thia_la,Thìa là,50,g,50 g
+750,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_bun,Bún,1000,g,1000 g
+751,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_rau_mui,Rau mùi,50,g,50 g
+752,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_rieng,Riềng,40,g,40 g
+753,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_rau_hung,Rau húng,50,g,50 g
+754,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_nghe_tuoi,Nghệ tươi,30,g,30 g
+755,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_chanh,Chanh,30,g,30 g
+756,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+757,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+758,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_banh_da_nem,Bánh đa nem,100,g,100 g
+759,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+760,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_lac_hat,Lạc Hạt,50,g,50 g
+761,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_muoi,Muối,,,
+762,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_vung_den_trang,"Vừng ( Đen, Trắng)",30,g,30 g
+763,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_xoai_chin,Xoài chín,,,
+764,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_mam_tom_dac,Mắm tôm đăc,40,g,40 g
+765,dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,ing_hat_tieu,Hạt tiêu,,,
+766,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_ca_qua,Cá quả,2,con,2 con
+767,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_rau_xa_lach,Rau xà lách,200,g,200 g
+768,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_thit_lon_nac,Thịt lợn nạc,0,g,0 g
+769,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_hanh_cu_tuoi,Hành củ tươi,40,g,40 g
+770,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_gan_lon,Gan lợn,150,g,150 g
+771,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_toi_ta,Tỏi ta,20,g,20 g
+772,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+773,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_mien_dong,Miến dong,50,g,50 g
+774,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_rau_mui,Rau mùi,30,g,30 g
+775,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_mo_lon_nuoc,Mỡ lợn nước,60,g,60 g
+776,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+777,dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,ing_ca_chua,Cà chua,300,g,300 g
+778,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_ca_qua,Cá quả,800,g,800 g
+779,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_rieng,Riềng,50,g,50 g
+780,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_lap_xuong,Lạp xưởng,100,g,100 g
+781,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+782,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_gan_lon,Gan lợn,200,g,200 g
+783,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_rau_mui,Rau mùi,100,g,100 g
+784,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+785,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_ot_do_to,Ớt đỏ to,20,g,20 g
+786,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_mo,Mơ,200,g,200 g
+787,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_duong_cat,Đường cát,20,g,20 g
+788,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_hanh_cu_tuoi,Hành củ tươi,80,g,80 g
+789,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+790,dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,ing_toi_ta,Tỏi ta,20,g,20 g
+791,dish_ruoc_ca,RUỐC CÁ,ing_ca_thu,Cá thu,1000,g,1000 g
+792,dish_ruoc_ca,RUỐC CÁ,ing_nuoc_mam_ca,Nước mắm cá,,,
+793,dish_ruoc_ca,RUỐC CÁ,ing_hat_tieu,Hạt tiêu,,,
+794,dish_dung_luon,DÙNG LƯƠN,ing_luon,Lươn,200,g,200 g
+795,dish_dung_luon,DÙNG LƯƠN,ing_trung_ga,Trứng gà,1,quả,50 g
+796,dish_dung_luon,DÙNG LƯƠN,ing_thit_lon_nac,Thịt lợn nạc,50,g,50 g
+797,dish_dung_luon,DÙNG LƯƠN,ing_man_nuoc_duong,Mận nước đường,500,g,500 g
+798,dish_dung_luon,DÙNG LƯƠN,ing_thit_ga_ta,Thịt gà ta,50,g,50 g
+799,dish_dung_luon,DÙNG LƯƠN,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+800,dish_dung_luon,DÙNG LƯƠN,ing_nam_huong_kho,Nấm hương khô,5,g,5 g
+801,dish_dung_luon,DÙNG LƯƠN,ing_hanh_cu_tuoi,Hành củ tươi,10,g,10 g
+802,dish_dung_luon,DÙNG LƯƠN,ing_hat_sen_kho,Hạt sen khô,10,g,10 g
+803,dish_dung_luon,DÙNG LƯƠN,ing_nuoc_mam_ca,Nước mắm cá,,,
+804,dish_dung_luon,DÙNG LƯƠN,ing_dao,Đào,30,g,30 g
+805,dish_lau_luon,LẦU LƯƠN,ing_tia_to,Tía tô,400,g,400 g
+806,dish_lau_luon,LẦU LƯƠN,ing_rau_ngo,Rau ngố,95,g,95 g
+807,dish_lau_luon,LẦU LƯƠN,ing_khe,Khế,200,g,200 g
+808,dish_lau_luon,LẦU LƯƠN,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+809,dish_lau_luon,LẦU LƯƠN,ing_vung_den_trang,"Vừng ( Đen, Trắng)",20,g,20 g
+810,dish_lau_luon,LẦU LƯƠN,ing_duong_cat,Đường cát,10,g,10 g
+811,dish_lau_luon,LẦU LƯƠN,ing_hoa_chuoi,Hoa chuối,100,g,100 g
+813,dish_lau_luon,LẦU LƯƠN,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+814,dish_lau_luon,LẦU LƯƠN,ing_muoi,Muối,,,
+815,dish_lau_luon,LẦU LƯƠN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+816,dish_lau_luon,LẦU LƯƠN,ing_hat_tieu,Hạt tiêu,,,
+817,dish_luon_ui,LƯƠN ÙI,ing_tuong_ot,Tương ớt,300,g,300 g
+818,dish_luon_ui,LƯƠN ÙI,ing_vung_den_trang,"Vừng ( Đen, Trắng)",30,g,30 g
+819,dish_luon_ui,LƯƠN ÙI,ing_thit_vit,Thịt vịt,50,g,50 g
+820,dish_luon_ui,LƯƠN ÙI,ing_dao,Đào,30,g,30 g
+821,dish_luon_ui,LƯƠN ÙI,ing_thit_lon_nac,Thịt lợn nạc,50,g,50 g
+822,dish_luon_ui,LƯƠN ÙI,ing_gung_tuoi,Gừng tươi,0,g,0 g
+823,dish_luon_ui,LƯƠN ÙI,ing_cu_dau,Củ đậu,50,g,50 g
+824,dish_luon_ui,LƯƠN ÙI,ing_chanh,Chanh,5,g,5 g
+825,dish_luon_ui,LƯƠN ÙI,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+826,dish_luon_ui,LƯƠN ÙI,ing_rau_mui,Rau mùi,20,g,20 g
+827,dish_luon_ui,LƯƠN ÙI,ing_mien_dong,Miến dong,35,g,35 g
+828,dish_luon_ui,LƯƠN ÙI,ing_nuoc_mam_ca,Nước mắm cá,,,
+829,dish_luon_ui,LƯƠN ÙI,ing_nam_huong_kho,Nấm hương khô,5,g,5 g
+830,dish_luon_ui,LƯƠN ÙI,ing_moc_nhi,Mộc nhĩ,5,g,5 g
+831,dish_luon_ui,LƯƠN ÙI,ing_hat_tieu,Hạt tiêu,,,
+832,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_luon,Lươn,500,g,500 g
+833,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_xuong_song,Xương sông,100,g,100 g
+834,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_thit_lon_nac,Thịt lợn nạc,300,g,300 g
+835,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_rieng,Riềng,50,g,50 g
+837,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_nghe_tuoi,Nghệ tươi,20,g,20 g
+838,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),100,g,100 g
+839,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_nuoc_mam_ca,Nước mắm cá,,,
+840,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+841,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_rau_ram,Rau râm,30,g,30 g
+842,dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,ing_hat_tieu,Hạt tiêu,,,
+843,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_luon,Lươn,500,g,500 g
+845,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_vai,Vải,250,g,250 g
+846,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_lac_hat,Lạc Hạt,190,g,190 g
+847,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_mien_dong,Miến dong,50,g,50 g
+848,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+849,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+850,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_rau_mui,Rau mùi,30,g,30 g
+851,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+852,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+853,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_mang_kho,Măng khô,20,g,20 g
+854,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+855,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+856,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_muoi,Muối,,,
+857,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_toi_ta,Tỏi ta,10,g,10 g
+858,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_cui_dua_gia,Cùi dừa giả,100,g,100 g
+859,dish_doi_luon_hap,DỒI LƯƠN HẤP,ing_hat_tieu,Hạt tiêu,,,
+860,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_luon,Lươn,500,g,500 g
+861,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_trung_ga,Trứng gà,2,quả,100 g
+862,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_thit_lon_nac,Thịt lợn nạc,250,g,250 g
+863,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_mien_dong,Miến dong,30,g,30 g
+864,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_mo,Mơ,200,g,200 g
+865,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_banh_da_nem,Bánh đa nem,200,g,200 g
+866,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_mo_kho,Mơ khô,150,g,150 g
+867,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_chanh,Chanh,200,g,200 g
+868,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+869,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_buoi,Bưởi,5,g,5 g
+870,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+871,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_nuoc_mam_ca,Nước mắm cá,,,
+872,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_toi_ta,Tỏi ta,20,g,20 g
+873,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_hat_tieu,Hạt tiêu,,,
+875,dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,ing_rau_mui,Rau mùi,,,
+876,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_luon,Lươn,500,g,500 g
+877,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_toi_ta,Tỏi ta,10,g,10 g
+878,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_gan_lon,Gan lợn,200,g,200 g
+879,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+880,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_thit_lon_mo,Thịt lợn mỡ,100,g,100 g
+881,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_duong_cat,Đường cát,20,g,20 g
+882,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_ca_chua,Cà chua,800,g,800 g
+883,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_rau_mui,Rau mùi,20,g,20 g
+884,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+885,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_nuoc_mam_ca,Nước mắm cá,,,
+886,dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+887,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_luon,Lươn,400,g,400 g
+888,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+889,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_mien_dong,Miến dong,350,g,350 g
+890,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+891,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",150,g,150 g
+892,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_rau_ram,Rau râm,20,g,20 g
+893,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_mo_lon_nuoc,Mỡ lợn nước,40,g,40 g
+894,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_nuoc_mam_ca,Nước mắm cá,,,
+895,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+896,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+897,dish_luon_xao_mien,LƯƠN XÀO MIẾN,ing_hat_tieu,Hạt tiêu,,,
+898,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_luon,Lươn,500,g,500 g
+899,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_bot_ca,Bột cá,30,g,30 g
+900,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_hanh_cu_tuoi,Hành củ tươi,40,g,40 g
+901,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_duong_cat,Đường cát,20,g,20 g
+902,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_lac_hat,Lạc Hạt,100,g,100 g
+904,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+905,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_nuoc_mam_ca,Nước mắm cá,,,
+906,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_toi_ta,Tỏi ta,10,g,10 g
+907,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_ot_do_to,Ớt đỏ to,20,g,20 g
+908,dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,ing_hat_tieu,Hạt tiêu,,,
+909,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_luon,Lươn,400,g,400 g
+911,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",250,g,250 g
+912,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_mat_ong,Mật ong,,,
+913,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_thit_lon_nac,Thịt lợn nạc,150,g,150 g
+914,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_duong_kinh,Đường kính,30,g,30 g
+915,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_rieng,Riềng,100,g,100 g
+916,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_rau_thom,Rau thơm,50,g,50 g
+917,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_rau_xa_lach,Rau xà lách,100,g,100 g
+918,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+919,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_ot_do_to,Ớt đỏ to,30,g,30 g
+921,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_nuoc_mam_ca,Nước mắm cá,,,
+922,dish_goi_luon_chien,GỎI LƯƠN CHIẾN,ing_xuong_song,Xương sông,0,g,0 g
+923,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_tuy_xuong_lon,Tủy xương lợn,600,g,600 g
+924,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_dao,Đào,80,g,80 g
+925,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_thit_lon_nac,Thịt lợn nạc,150,g,150 g
+926,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_ca_chua,Cà chua,900,g,900 g
+927,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_mien_dong,Miến dong,30,g,30 g
+928,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_rau_mui,Rau mùi,50,g,50 g
+929,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+930,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_toi_ta,Tỏi ta,10,g,10 g
+931,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+932,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_duong_cat,Đường cát,10,g,10 g
+933,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+934,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+935,dish_doi_luon_ran,DỔI LƯƠN RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+936,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_luon,Lươn,500,g,500 g
+937,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+938,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_gan_lon,Gan lợn,200,g,200 g
+939,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_toi_ta,Tỏi ta,10,g,10 g
+941,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_thit_lon_mo,Thịt lợn mỡ,0,g,0 g
+942,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_duong_cat,Đường cát,20,g,20 g
+943,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),100,g,100 g
+944,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+945,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+946,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_rau_mui,Rau mùi,100,g,100 g
+947,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_nam_huong_kho,Nấm hương khô,30,g,30 g
+948,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_ca_bat,Cà bát,100,g,100 g
+949,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+950,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_cu_dau,Củ đậu,100,g,100 g
+951,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_khoai_nuoc,Khoai nước,100,g,100 g
+952,dish_luon_cuon_ran,LƯƠN CUỐN RÁN,ing_hat_tieu,Hạt tiêu,,,
+953,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_luon,Lươn,500,g,500 g
+954,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_mo_lon_nuoc,Mỡ lợn nước,80,g,80 g
+955,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_gan_ga,Gan gà,200,g,200 g
+956,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+957,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_thit_lon_mo,Thịt lợn mỡ,150,g,150 g
+958,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_rau_mui,Rau mùi,50,g,50 g
+959,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_vung_den_trang,"Vừng ( Đen, Trắng)",30,g,30 g
+960,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_duong_cat,Đường cát,20,g,20 g
+961,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_lac_hat,Lạc Hạt,50,g,50 g
+963,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_dau_tuong_dau_nanh,Đậu tương ( Đậu nành),100,g,100 g
+964,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_nuoc_mam_ca,Nước mắm cá,,,
+965,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_muoi,Muối,,,
+966,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+967,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_toi_ta,Tỏi ta,10,g,10 g
+968,dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,ing_hat_tieu,Hạt tiêu,,,
+969,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_luon,Lươn,500,g,500 g
+970,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_nghe_tuoi,Nghệ tươi,20,g,20 g
+971,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_thit_lon_nac,Thịt lợn nạc,300,g,300 g
+972,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_toi_ta,Tỏi ta,10,g,10 g
+973,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_mo,Mơ,200,g,200 g
+974,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+975,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_rieng,Riềng,30,g,30 g
+976,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_xuong_song,Xương sông,100,g,100 g
+977,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_vung_den_trang,"Vừng ( Đen, Trắng)",100,g,100 g
+978,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_chanh,Chanh,20,g,20 g
+979,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_mam_tom_dac,Mắm tôm đăc,20,g,20 g
+980,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_tia_to,Tía tô,50,g,50 g
+981,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_duong_cat,Đường cát,30,g,30 g
+982,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+984,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_vung_den_trang,"Vừng ( Đen, Trắng)",30,g,30 g
+985,dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,ing_hat_tieu,Hạt tiêu,,,
+986,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_tia_to,Tía tô,500,g,500 g
+987,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+988,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_thit_lon_nac,Thịt lợn nạc,900,g,900 g
+989,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_duong_cat,Đường cát,20,g,20 g
+990,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_rieng,Riềng,30,g,30 g
+992,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+993,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+994,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+995,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_toi_ta,Tỏi ta,10,g,10 g
+996,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_xuong_song,Xương sông,100,g,100 g
+997,dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,ing_hat_tieu,Hạt tiêu,,,
+998,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_tom_bien,Tôm biển,200,g,200 g
+999,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_mo_lon_nuoc,Mỡ lợn nước,10,g,10 g
+1000,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+1001,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1002,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_mien_dong,Miến dong,30,g,30 g
+1003,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_duong_cat,Đường cát,10,g,10 g
+1004,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_tuy_xuong_lon,Tủy xương lợn,200,g,200 g
+1005,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_rau_mui,Rau mùi,30,g,30 g
+1006,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_trung_ga,Trứng gà,1,quả,50 g
+1007,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+1008,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",50,g,50 g
+1009,dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,ing_dau_ha_lan,Đậu Hà Lan,50,g,50 g
+1011,dish_moc_tom,MỌC TÔM,ing_tom_bien,Tôm biển,300,g,300 g
+1012,dish_moc_tom,MỌC TÔM,ing_mo_lon_nuoc,Mỡ lợn nước,20,g,20 g
+1013,dish_moc_tom,MỌC TÔM,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+1014,dish_moc_tom,MỌC TÔM,ing_tuy_xuong_lon,Tủy xương lợn,200,g,200 g
+1015,dish_moc_tom,MỌC TÔM,ing_nam_huong_kho,Nấm hương khô,7,g,7 g
+1016,dish_moc_tom,MỌC TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1017,dish_moc_tom,MỌC TÔM,ing_moc_nhi,Mộc nhĩ,5,g,5 g
+1018,dish_moc_tom,MỌC TÔM,ing_muoi,Muối,,,
+1019,dish_moc_tom,MỌC TÔM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1020,dish_moc_tom,MỌC TÔM,ing_hat_tieu,Hạt tiêu,,,
+1021,dish_tom_kho_tau,TÔM KHO TÀU,ing_tom_bien,Tôm biển,800,g,800 g
+1022,dish_tom_kho_tau,TÔM KHO TÀU,ing_duong_cat,Đường cát,50,g,50 g
+1023,dish_tom_kho_tau,TÔM KHO TÀU,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+1024,dish_tom_kho_tau,TÔM KHO TÀU,ing_nuoc_mam_ca,Nước mắm cá,,,
+1025,dish_tom_kho_tau,TÔM KHO TÀU,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1026,dish_tom_rim,TÔM RIM,ing_tom_bien,Tôm biển,600,g,600 g
+1027,dish_tom_rim,TÔM RIM,ing_duong_cat,Đường cát,20,g,20 g
+1028,dish_tom_rim,TÔM RIM,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1029,dish_tom_rim,TÔM RIM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1030,dish_tom_rim,TÔM RIM,ing_gung_tuoi,Gừng tươi,20,g,20 g
+1031,dish_tom_rim,TÔM RIM,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+1032,dish_tom_rim,TÔM RIM,ing_hat_tieu,Hạt tiêu,,,
+1033,dish_cha_tom,CHẢ TÔM,ing_tom_bien,Tôm biển,500,g,500 g
+1034,dish_cha_tom,CHẢ TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1035,dish_cha_tom,CHẢ TÔM,ing_trung_vit,Trứng vịt,1,quả,50 g
+1036,dish_cha_tom,CHẢ TÔM,ing_thit_lon_mo,Thịt lợn mỡ,0,g,0 g
+1038,dish_cha_tom,CHẢ TÔM,ing_khoai_nuoc,Khoai nước,100,g,100 g
+1039,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_tom_bien,Tôm biển,500,g,500 g
+1040,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+1041,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_trung_vit,Trứng vịt,60,g,60 g
+1042,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_rau_mui,Rau mùi,100,g,100 g
+1043,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_bot_gao_nep,Bột gạo nếp,150,g,150 g
+1044,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_duong_cat,Đường cát,30,g,30 g
+1045,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+1046,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1047,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_toi_ta,Tỏi ta,10,g,10 g
+1048,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+1049,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_hat_tieu,Hạt tiêu,,,
+1050,dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+1052,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_tom_bien,Tôm biển,500,g,500 g
+1053,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_tom_kho,Tôm khô,20,g,20 g
+1054,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+1055,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),30,ml,30 g
+1056,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_long_trang_trung_ga,Lòng trắng trứng gà,50,g,50 g
+1057,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+1058,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_hanh_tay,Hành tây,200,g,200 g
+1059,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",50,g,50 g
+1060,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_toi_ta,Tỏi ta,300,g,300 g
+1061,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_rau_mui,Rau mùi,30,g,30 g
+1062,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_can_tay,Cần tây,100,g,100 g
+1063,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1064,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_ca_chua,Cà chua,200,g,200 g
+1065,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_khoai_nuoc,Khoai nước,,,
+1066,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_dao,Đào,50,g,50 g
+1067,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1068,dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,ing_hat_tieu,Hạt tiêu,,,
+1069,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_tom_bien,Tôm biển,500,g,500 g
+1070,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+1071,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_ca_chua,Cà chua,200,g,200 g
+1072,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_rau_mui,Rau mùi,100,g,100 g
+1073,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_mo_lon_nuoc,Mỡ lợn nước,60,g,60 g
+1074,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_duong_cat,Đường cát,30,g,30 g
+1075,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1076,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_nuoc_mam_ca,Nước mắm cá,,,
+1077,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_toi_ta,Tỏi ta,10,g,10 g
+1079,dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,ing_dao,Đào,30,g,30 g
+1080,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_tom_bien,Tôm biển,500,g,500 g
+1082,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_thit_lon_mo,Thịt lợn mỡ,50,g,50 g
+1083,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1084,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_nuoc_dua_non_tuoi,Nước dừa non tươi,500,g,500 g
+1085,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_banh_da_nem,Bánh đa nem,100,g,100 g
+1086,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_chanh,Chanh,,,
+1087,dish_cha_gio_tom,CHẢ GIÒ TÔM,ing_duong_cat,Đường cát,20,g,20 g
+1088,dish_cuon_tom,CUỐN TÔM,ing_tom_bien,Tôm biển,400,g,400 g
+1089,dish_cuon_tom,CUỐN TÔM,ing_rau_hung,Rau húng,100,g,100 g
+1090,dish_cuon_tom,CUỐN TÔM,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",300,g,300 g
+1091,dish_cuon_tom,CUỐN TÔM,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),200,g,200 g
+1092,dish_cuon_tom,CUỐN TÔM,ing_gio_lua,Giò lụa,200,g,200 g
+1093,dish_cuon_tom,CUỐN TÔM,ing_mat_ong,Mật ong,100,g,100 g
+1094,dish_cuon_tom,CUỐN TÔM,ing_trung_vit,Trứng vịt,3,quả,150 g
+1096,dish_cuon_tom,CUỐN TÔM,ing_mo_lon_nuoc,Mỡ lợn nước,60,g,60 g
+1097,dish_cuon_tom,CUỐN TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1098,dish_cuon_tom,CUỐN TÔM,ing_lac_hat,Lạc Hạt,100,g,100 g
+1099,dish_cuon_tom,CUỐN TÔM,ing_muoi,Muối,,,
+1100,dish_cuon_tom,CUỐN TÔM,ing_rau_xa_lach,Rau xà lách,300,g,300 g
+1101,dish_cuon_tom,CUỐN TÔM,ing_bun,Bún,300,g,300 g
+1102,dish_cuon_tom,CUỐN TÔM,ing_hat_tieu,Hạt tiêu,,,
+1103,dish_cuon_tom,CUỐN TÔM,ing_rau_mui,Rau mùi,100,g,100 g
+1104,dish_cuon_tom,CUỐN TÔM,ing_ca_dau,Cá dầu,,,
+1105,dish_chao_tom,CHẠO TÔM,ing_tom_bien,Tôm biển,400,g,400 g
+1106,dish_chao_tom,CHẠO TÔM,ing_duong_cat,Đường cát,20,g,20 g
+1107,dish_chao_tom,CHẠO TÔM,ing_thit_lon_mo,Thịt lợn mỡ,150,g,150 g
+1108,dish_chao_tom,CHẠO TÔM,ing_rau_mui,Rau mùi,50,g,50 g
+1109,dish_chao_tom,CHẠO TÔM,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+1110,dish_chao_tom,CHẠO TÔM,ing_chanh,Chanh,30,g,30 g
+1111,dish_chao_tom,CHẠO TÔM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1112,dish_chao_tom,CHẠO TÔM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1113,dish_chao_tom,CHẠO TÔM,ing_toi_ta,Tỏi ta,10,g,10 g
+1114,dish_chao_tom,CHẠO TÔM,ing_rau_xa_lach,Rau xà lách,200,g,200 g
+1116,dish_ruoc_tom,RUỐC TÔM,ing_tom_bien,Tôm biển,1000,g,1000 g
+1117,dish_ruoc_tom,RUỐC TÔM,ing_hat_tieu,Hạt tiêu,,,
+1118,dish_ruoc_tom,RUỐC TÔM,ing_nuoc_mam_ca,Nước mắm cá,40,ml,40 g
+1119,dish_mam_tom_chua,MẮM TÔM CHUA,ing_tom_bien,Tôm biển,500,g,500 g
+1120,dish_mam_tom_chua,MẮM TÔM CHUA,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),30,ml,30 g
+1121,dish_mam_tom_chua,MẮM TÔM CHUA,ing_muoi,Muối,100,g,100 g
+1122,dish_mam_tom_chua,MẮM TÔM CHUA,ing_duong_cat,Đường cát,30,g,30 g
+1123,dish_mam_tom_chua,MẮM TÔM CHUA,ing_gao_te_may,Gạo tẻ máy,60,g,60 g
+1124,dish_mam_tep,MẮM TÉP,ing_tep_gao,Tép gạo,1000,g,1000 g
+1125,dish_mam_tep,MẮM TÉP,ing_duong_cat,Đường cát,30,g,30 g
+1126,dish_mam_tep,MẮM TÉP,ing_gao_te_may,Gạo tẻ máy,150,g,150 g
+1127,dish_mam_tep,MẮM TÉP,ing_muoi,Muối,,,
+1128,dish_mam_tep,MẮM TÉP,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),30,ml,30 g
+1129,dish_muc_nau_roi,MỰC NẤU RỐI,ing_muc_kho,Mực khô,100,g,100 g
+1130,dish_muc_nau_roi,MỰC NẤU RỐI,ing_nam_huong_kho,Nấm hương khô,,,
+1131,dish_muc_nau_roi,MỰC NẤU RỐI,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+1132,dish_muc_nau_roi,MỰC NẤU RỐI,ing_gung_tuoi,Gừng tươi,20,g,20 g
+1133,dish_muc_nau_roi,MỰC NẤU RỐI,ing_thit_ga_ta,Thịt gà ta,100,g,100 g
+1134,dish_muc_nau_roi,MỰC NẤU RỐI,ing_duong_cat,Đường cát,5,g,5 g
+1135,dish_muc_nau_roi,MỰC NẤU RỐI,ing_trung_ga,Trứng gà,1,quả,50 g
+1136,dish_muc_nau_roi,MỰC NẤU RỐI,ing_man_nuoc_duong,Mận nước đường,700,ml,700 g
+1137,dish_muc_nau_roi,MỰC NẤU RỐI,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1138,dish_muc_nau_roi,MỰC NẤU RỐI,ing_nuoc_mam_ca,Nước mắm cá,,,
+1139,dish_muc_nau_roi,MỰC NẤU RỐI,ing_gio_lua,Giò lụa,30,g,30 g
+1140,dish_muc_nau_roi,MỰC NẤU RỐI,ing_muoi,Muối,,,
+1141,dish_muc_nau_roi,MỰC NẤU RỐI,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+1142,dish_muc_nau_roi,MỰC NẤU RỐI,ing_dau_ha_lan,Đậu Hà Lan,0,g,0 g
+1143,dish_muc_nau_roi,MỰC NẤU RỐI,ing_hat_tieu,Hạt tiêu,,,
+1144,dish_muc_nau_roi,MỰC NẤU RỐI,ing_su_hao,Su hào,150,g,150 g
+1145,dish_muc_nau_roi,MỰC NẤU RỐI,ing_rau_mui,Rau mùi,,,
+1146,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_muc_kho,Mực khô,100,g,100 g
+1147,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1148,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_thit_ga_ta,Thịt gà ta,300,g,300 g
+1150,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+1151,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1152,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_can_tay,Cần tây,100,g,100 g
+1153,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_toi_ta,Tỏi ta,100,g,100 g
+1154,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_hat_tieu,Hạt tiêu,,,
+1155,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_hanh_cu_tuoi,Hành củ tươi,0,g,0 g
+1156,dish_muc_nau_gion,MỰC NẤU GIÒN,ing_rau_mui,Rau mùi,,,
+1157,dish_muc_nu_my,MỰC NỤ MỸ,ing_muc_tuoi,Mực tươi,1000,g,1000 g
+1158,dish_muc_nu_my,MỰC NỤ MỸ,ing_rau_mui,Rau mùi,50,g,50 g
+1159,dish_muc_nu_my,MỰC NỤ MỸ,ing_thit_lon_nac,Thịt lợn nạc,400,g,400 g
+1160,dish_muc_nu_my,MỰC NỤ MỸ,ing_muoi,Muối,,,
+1161,dish_muc_nu_my,MỰC NỤ MỸ,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1162,dish_muc_nu_my,MỰC NỤ MỸ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1163,dish_muc_nu_my,MỰC NỤ MỸ,ing_toi_ta,Tỏi ta,20,g,20 g
+1164,dish_muc_nu_my,MỰC NỤ MỸ,ing_dua_chuot,Dưa chuột,400,g,400 g
+1165,dish_muc_nu_my,MỰC NỤ MỸ,ing_hat_tieu,Hạt tiêu,,,
+1166,dish_muc_nu_my,MỰC NỤ MỸ,ing_duong_cat,Đường cát,30,g,30 g
+1167,dish_muc_nu_my,MỰC NỤ MỸ,ing_rau_hung,Rau húng,,,
+1168,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_muc_tuoi,Mực tươi,0,g,00 g
+1169,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_can_tay,Cần tây,100,g,100 g
+1171,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1172,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+1173,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_dao,Đào,20,g,20 g
+1174,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+1175,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_rau_mui,Rau mùi,100,g,100 g
+1176,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1177,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_muop,Mướp,,,
+1178,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_toi_ta,Tỏi ta,20,g,20 g
+1179,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1180,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+1181,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",100,g,100 g
+1182,dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,ing_hat_tieu,Hạt tiêu,,,
+1183,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_muc_tuoi,Mực tươi,500,g,500 g
+1184,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_duong_cat,Đường cát,30,g,30 g
+1185,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_dua_cai_be,Dưa cải bẹ,400,g,400 g
+1186,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_nuoc_mam_ca,Nước mắm cá,,,
+1187,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_hanh_cu_tuoi,Hành củ tươi,100,g,100 g
+1188,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_muoi,Muối,,,
+1189,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_toi_ta,Tỏi ta,20,g,20 g
+1190,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1191,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_hat_tieu,Hạt tiêu,,,
+1192,dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,ing_ca_chua,Cà chua,100,g,100 g
+1193,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_muc_tuoi,Mực tươi,500,g,500 g
+1194,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+1195,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+1196,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_duong_cat,Đường cát,30,g,30 g
+1197,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_moc_nhi,Mộc nhĩ,10,g,10 g
+1198,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_rau_mui,Rau mùi,50,g,50 g
+1199,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+1200,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_rau_xa_lach,Rau xà lách,500,g,500 g
+1201,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1202,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_dao,Đào,20,g,20 g
+1203,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_toi_ta,Tỏi ta,20,g,20 g
+1204,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1205,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_ca_chua,Cà chua,200,g,200 g
+1206,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_muoi,Muối,,,
+1207,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_trung_vit,Trứng vịt,1,quả,50 g
+1208,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_bot_gao_nep,Bột gạo nếp,30,g,30 g
+1209,dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,ing_hat_tieu,Hạt tiêu,,,
+1210,dish_cha_muc,CHẢ MỰC,ing_muc_tuoi,Mực tươi,1000,g,1000 g
+1211,dish_cha_muc,CHẢ MỰC,ing_ot_do_to,Ớt đỏ to,,,
+1212,dish_cha_muc,CHẢ MỰC,ing_sua_bot_toan_phan,Sữa bột toàn phần,100,g,100 g
+1213,dish_cha_muc,CHẢ MỰC,ing_thia_la,Thìa là,50,g,50 g
+1214,dish_cha_muc,CHẢ MỰC,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+1215,dish_cha_muc,CHẢ MỰC,ing_nuoc_mam_ca,Nước mắm cá,,,
+1216,dish_cha_muc,CHẢ MỰC,ing_trung_vit,Trứng vịt,1,quả,50 g
+1217,dish_cha_muc,CHẢ MỰC,ing_chanh,Chanh,30,g,30 g
+1218,dish_cha_muc,CHẢ MỰC,ing_hat_tieu,Hạt tiêu,,,
+1219,dish_cha_muc,CHẢ MỰC,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1220,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_muc_tuoi,Mực tươi,500,g,500 g
+1221,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_dao,Đào,50,g,50 g
+1222,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+1223,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_rau_mui,Rau mùi,50,g,50 g
+1224,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_mo,Mơ,0,g,0 g
+1225,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_mo_lon_nuoc,Mỡ lợn nước,200,g,200 g
+1226,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+1227,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_mach_nha,Mạch nha,10,g,10 g
+1228,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_moc_nhi,Mộc nhĩ,12,g,12 g
+1229,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1230,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1231,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_muoi,Muối,,,
+1232,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_toi_ta,Tỏi ta,0,g,0 g
+1233,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_hat_tieu,Hạt tiêu,,,
+1234,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_mien_dong,Miến dong,40,g,40 g
+1235,dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,ing_khoai_tay,Khoai tây,400,g,400 g
+1236,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_muc_kho,Mực khô,200,g,200 g
+1237,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_duong_cat,Đường cát,30,g,30 g
+1238,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_buoi,Bưởi,300,g,300 g
+1239,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_mam_tom_dac,Mắm tôm đăc,,,
+1240,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_toi_ta,Tỏi ta,30,g,30 g
+1241,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_muoi,Muối,,,
+1242,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_ot_do_to,Ớt đỏ to,20,g,20 g
+1243,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_rau_mui,Rau mùi,100,g,100 g
+1244,dish_nom_muc_buoi,NỘM MỰC BƯỞI,ing_hat_tieu,Hạt tiêu,,,
+1246,dish_ech_nau_cary,ẾCH NẤU CARY,ing_ech_thit_dui,Ếch ( thịt đùi),1000,g,1000 g
+1247,dish_ech_nau_cary,ẾCH NẤU CARY,ing_duong_cat,Đường cát,20,g,20 g
+1248,dish_ech_nau_cary,ẾCH NẤU CARY,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1249,dish_ech_nau_cary,ẾCH NẤU CARY,ing_ot_do_to,Ớt đỏ to,5,g,5 g
+1250,dish_ech_nau_cary,ẾCH NẤU CARY,ing_toi_ta,Tỏi ta,20,g,20 g
+1251,dish_ech_nau_cary,ẾCH NẤU CARY,ing_muoi,Muối,,,
+1252,dish_ech_nau_cary,ẾCH NẤU CARY,ing_cary_bot,Cary bột,30,g,30 g
+1253,dish_ech_nau_cary,ẾCH NẤU CARY,ing_nuoc_mam_ca,Nước mắm cá,,,
+1254,dish_ech_nau_cary,ẾCH NẤU CARY,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1255,dish_ech_nau_cary,ẾCH NẤU CARY,ing_hat_tieu,Hạt tiêu,,,
+1256,dish_ech_nau_cary,ẾCH NẤU CARY,ing_ca_chua,Cà chua,100,g,100 g
+1257,dish_ech_nau_cary,ẾCH NẤU CARY,ing_gung_tuoi,Gừng tươi,20,g,20 g
+1258,dish_ech_nau_cary,ẾCH NẤU CARY,ing_rau_hung,Rau húng,,,
+1260,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_ech_thit_dui,Ếch ( thịt đùi),700,g,700 g
+1261,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_gung_tuoi,Gừng tươi,20,g,20 g
+1262,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_gan_ga,Gan gà,900,g,900 g
+1263,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_muoi,Muối,,,
+1264,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+1265,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1266,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+1267,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_hat_tieu,Hạt tiêu,,,
+1268,dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,ing_khoai_nuoc,Khoai nước,30,g,30 g
+1269,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_ech_thit_dui,Ếch ( thịt đùi),600,g,600 g
+1270,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_dao,Đào,20,g,20 g
+1271,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_dua_ta,Dứa ta,800,g,800 g
+1272,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_duong_cat,Đường cát,20,g,20 g
+1273,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_mo_lon_nuoc,Mỡ lợn nước,40,g,40 g
+1274,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_rau_mui,Rau mùi,0,g,0 g
+1275,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+1276,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_muoi,Muối,,,
+1277,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_nuoc_mam_ca,Nước mắm cá,,,
+1278,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_hanh_cu_tuoi,Hành củ tươi,0,g,0 g
+1279,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_toi_ta,Tỏi ta,20,g,20 g
+1280,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_hat_tieu,Hạt tiêu,,,
+1281,dish_ech_xao_dua,ẾCH XÀO DỨA,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),,,
+1282,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_ech_thit_dui,Ếch ( thịt đùi),800,g,800 g
+1283,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_duong_cat,Đường cát,20,g,20 g
+1284,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_khe,Khế,400,g,400 g
+1285,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_rau_mui,Rau mùi,50,g,50 g
+1286,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1287,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_muoi,Muối,,,
+1288,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_toi_ta,Tỏi ta,20,g,20 g
+1289,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1290,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_mo_lon_nuoc,Mỡ lợn nước,40,g,40 g
+1291,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+1292,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_hat_tieu,Hạt tiêu,,,
+1293,dish_ech_xao_khe,ẾCH XÀO KHẾ,ing_dao,Đào,,,
+1294,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_ech_thit_dui,Ếch ( thịt đùi),500,g,500 g
+1295,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1296,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_mien_dong,Miến dong,250,g,250 g
+1297,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+1298,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_thit_lon_nac,Thịt lợn nạc,100,g,100 g
+1299,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_rau_mui,Rau mùi,50,g,50 g
+1300,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1301,dish_ech_xao_mien,ẾCH XÀO MIẾN,ing_mo_lon_nuoc,Mỡ lợn nước,40,g,40 g
+1302,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_ech_thit_dui,Ếch ( thịt đùi),1.500,g,1.500 g
+1303,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+1304,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_bot_gao_nep,Bột gạo nếp,150,g,150 g
+1305,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_rau_xa_lach,Rau xà lách,200,g,200 g
+1306,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_trung_vit,Trứng vịt,2,quả,100 g
+1307,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_rau_mui,Rau mùi,100,g,100 g
+1308,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_khoai_nuoc,Khoai nước,150,g,150 g
+1309,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_muoi,Muối,,,
+1310,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_duong_cat,Đường cát,30,g,30 g
+1311,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1312,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_toi_ta,Tỏi ta,20,g,20 g
+1314,dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,ing_hat_tieu,Hạt tiêu,,,
+1315,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_ech_thit_dui,Ếch ( thịt đùi),1000,g,1000 g
+1317,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+1318,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_duong_cat,Đường cát,20,g,20 g
+1319,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1320,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_muoi,Muối,,,
+1321,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_mo,Mơ,200,g,200 g
+1322,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_nuoc_mam_ca,Nước mắm cá,,,
+1323,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_toi_ta,Tỏi ta,30,g,30 g
+1324,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1325,dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,ing_hat_tieu,Hạt tiêu,,,
+1327,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_gung_tuoi,Gừng tươi,20,g,20 g
+1328,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_lac_hat,Lạc Hạt,50,g,50 g
+1329,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),50,g,50 g
+1330,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_chan_gio_lon,Chân giò lợn,600,g,600 g
+1331,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_dao,Đào,30,g,30 g
+1332,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1333,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_muoi,Muối,,,
+1334,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_cu_dau,Củ đậu,200,g,200 g
+1335,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_nuoc_mam_ca,Nước mắm cá,,,
+1336,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+1337,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_hanh_cu_tuoi,Hành củ tươi,20,g,20 g
+1338,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_hat_tieu,Hạt tiêu,,,
+1339,dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,ing_toi_ta,Tỏi ta,10,g,10 g
+1341,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_nghe_tuoi,Nghệ tươi,30,g,30 g
+1342,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",200,g,200 g
+1343,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_vung_den_trang,"Vừng ( Đen, Trắng)",100,g,100 g
+1344,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_dau_phu,Đậu phụ,300,g,300 g
+1345,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_mam_tom_dac,Mắm tôm đăc,39,g,39 g
+1346,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_chuoi_xanh,Chuối xanh,300,g,300 g
+1347,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_muoi,Muối,,,
+1348,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1349,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_nuoc_mam_ca,Nước mắm cá,,,
+1350,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+1351,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_toi_ta,Tỏi ta,20,g,20 g
+1352,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_hat_tieu,Hạt tiêu,,,
+1353,dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+1355,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),50,ml,50 g
+1356,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_chan_gio_lon,Chân giò lợn,200,g,200 g
+1357,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1358,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_hat_sen_tuoi,Hạt sen tươi,50,g,50 g
+1359,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1360,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_ca_doi,Cá đối,50,g,50 g
+1361,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_muoi,Muối,,,
+1362,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_tom_kho,Tôm khô,50,g,50 g
+1363,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_nuoc_mam_ca,Nước mắm cá,,,
+1364,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_nuoc_dua_hop,Nước dứa hộp,500,g,500 g
+1365,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_gung_tuoi,Gừng tươi,30,g,30 g
+1366,dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,ing_hat_tieu,Hạt tiêu,,,
+1368,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_rau_mui,Rau mùi,30,g,30 g
+1369,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_nam_huong_kho,Nấm hương khô,20,g,20 g
+1370,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_quit,Quít,,,
+1371,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_thit_ga_ta,Thịt gà ta,300,g,300 g
+1372,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_muoi,Muối,,,
+1374,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1375,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_nuoc_mam_ca,Nước mắm cá,,,
+1376,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1377,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_gung_tuoi,Gừng tươi,30,g,30 g
+1378,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_hat_tieu,Hạt tiêu,,,
+1379,dish_ba_ba_tan_nam,BA BA TẤN NẤM,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),50,ml,50 g
+1381,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_dao,Đào,50,g,50 g
+1382,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_mo_lon_nuoc,Mỡ lợn nước,100,g,100 g
+1383,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_rau_mui,Rau mùi,30,g,30 g
+1384,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_thit_lon_nac,Thịt lợn nạc,200,g,200 g
+1386,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_nam_huong_kho,Nấm hương khô,10,g,10 g
+1387,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_muoi,Muối,,,
+1388,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_toi_ta,Tỏi ta,90,g,90 g
+1389,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_nuoc_mam_ca,Nước mắm cá,,,
+1390,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1391,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_duong_cat,Đường cát,20,g,20 g
+1392,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_hat_tieu,Hạt tiêu,,,
+1393,dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),50,ml,50 g
+1395,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_thia_la,Thìa là,100,g,100 g
+1396,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_mo_lon_nuoc,Mỡ lợn nước,30,g,30 g
+1397,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_rau_hung,Rau húng,50,g,50 g
+1398,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_hanh_cu_tuoi,Hành củ tươi,50,g,50 g
+1399,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_tia_to,Tía tô,30,g,30 g
+1400,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_rieng,Riềng,30,g,30 g
+1401,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_ot_do_to,Ớt đỏ to,10,g,10 g
+1402,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_nghe_tuoi,Nghệ tươi,20,g,20 g
+1403,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_chanh,Chanh,30,g,30 g
+1405,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_muoi,Muối,,,
+1406,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_toi_ta,Tỏi ta,20,g,20 g
+1407,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_mam_tom_dac,Mắm tôm đăc,,,
+1408,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_mam_tom_dac,Mắm tôm đăc,90,g,90 g
+1409,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_vung_den_trang,"Vừng ( Đen, Trắng)",0,g,0 g
+1410,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_hat_tieu,Hạt tiêu,,,
+1411,dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,ing_bun,Bún,1000,g,1000 g
+1412,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_oc_nhoi,Ốc nhồi,1000,g,1000 g
+1413,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_tia_to,Tía tô,20,g,20 g
+1414,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",200,g,200 g
+1415,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_mam_tom_dac,Mắm tôm đăc,30,g,30 g
+1416,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_chuoi_xanh,Chuối xanh,300,g,300 g
+1417,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_mo_lon_nuoc,Mỡ lợn nước,50,g,50 g
+1418,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_nghe_tuoi,Nghệ tươi,30,g,30 g
+1419,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_muoi,Muối,,,
+1420,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_toi_ta,Tỏi ta,90,g,90 g
+1421,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_nuoc_mam_ca,Nước mắm cá,,,
+1422,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_hanh_cu_tuoi,Hành củ tươi,30,g,30 g
+1423,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_hanh_la_hanh_hoa,Hành lá (hành hoa),50,g,50 g
+1424,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_vung_den_trang,"Vừng ( Đen, Trắng)",,,
+1425,dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,ing_dau_phu,Đậu phụ,100,g,100 g

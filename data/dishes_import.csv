@@ -1,0 +1,144 @@
+﻿dish_id,name,ingredient_count,source
+dish_ba_ba_ham_hat_sen,BA BA HẦM HẠT SEN,12,mon_an_nguyen_lieu.xlsx
+dish_ba_ba_nuong_cha,BA BA NƯỚNG CHẢ,16,mon_an_nguyen_lieu.xlsx
+dish_ba_ba_nau_chan_gio,BA BA NẤU CHÂN GIÒ,13,mon_an_nguyen_lieu.xlsx
+dish_ba_ba_nau_dau_phu_chuoi_xanh,BA BA NẤU ĐẬU PHỤ CHUỐI XANH,13,mon_an_nguyen_lieu.xlsx
+dish_ba_ba_sot_chua_ngot,BA BA SỐT CHUA NGỌT,12,mon_an_nguyen_lieu.xlsx
+dish_ba_ba_tan_nam,BA BA TẤN NẤM,11,mon_an_nguyen_lieu.xlsx
+dish_bi_do_ham_dua,BÍ ĐỎ HẦM DỪA,6,mon_an_nguyen_lieu.xlsx
+dish_bi_do_xao_tom,BÍ ĐỎ XÀO TÔM,7,mon_an_nguyen_lieu.xlsx
+dish_bau_xao_tom_thit,BẦU XÀO TÔM THỊT,9,mon_an_nguyen_lieu.xlsx
+dish_canh_bi_dao_nau_tom_thit,CANH BÍ ĐAO NẤU TÔM THỊT,9,mon_an_nguyen_lieu.xlsx
+dish_canh_bau_nau_cua,CANH BẦU NẤU CUA,3,mon_an_nguyen_lieu.xlsx
+dish_canh_chua_ca,CANH CHUA CÁ,13,mon_an_nguyen_lieu.xlsx
+dish_canh_chua_cai_bap,CANH CHUA Cải bắp,10,mon_an_nguyen_lieu.xlsx
+dish_canh_ca_nau_dam,CANH CÁ NẤU DẤM,11,mon_an_nguyen_lieu.xlsx
+dish_canh_ca_nau_dua,CANH CÁ NẤU DỨA,10,mon_an_nguyen_lieu.xlsx
+dish_canh_ca_ro_nau_mien,CANH CÁ RÔ NẤU MIẾN,7,mon_an_nguyen_lieu.xlsx
+dish_canh_ca_ro_thuon_hanh_ram,CANH CÁ RÔ THUÔN HÀNH RĂM,6,mon_an_nguyen_lieu.xlsx
+dish_canh_ca_am,CANH CÁ ÁM,10,mon_an_nguyen_lieu.xlsx
+dish_canh_cai_cuc_nau_ca_ro,CANH CẢI CÚC NẤU CÁ RÔ,4,mon_an_nguyen_lieu.xlsx
+dish_canh_cai_nau_than_lon_trung_ga,CANH CẢI NẤU THẦN LỢN TRỨNG GÀ,6,mon_an_nguyen_lieu.xlsx
+dish_canh_cai_soong_nau_thit_nac,CANH CẢI SOONG NẤU THỊT NẠC,4,mon_an_nguyen_lieu.xlsx
+dish_canh_dua_huong_nau_ca_ro,CANH DƯA HƯỜNG NẤU CÁ RÔ,5,mon_an_nguyen_lieu.xlsx
+dish_canh_dua_nau_ca_tre,CANH DƯA NẤU CÁ TRÊ,10,mon_an_nguyen_lieu.xlsx
+dish_canh_hoa_lo_nau_thit_ga,CANH HOA LƠ NẤU THỊT GÀ,3,mon_an_nguyen_lieu.xlsx
+dish_canh_he_nau_thit,CANH HỆ NẤU THỊT,7,mon_an_nguyen_lieu.xlsx
+dish_canh_khoai_mo,CANH KHOAI MỠ,7,mon_an_nguyen_lieu.xlsx
+dish_canh_muop_huong_nau_cua_rau_day,"CANH MƯỚP HƯƠNG NẤU CUA, RAU ĐAY",6,mon_an_nguyen_lieu.xlsx
+dish_canh_su_hao_nau_suon,CANH SU HÀO NẤU SƯỜN,4,mon_an_nguyen_lieu.xlsx
+dish_canh_tom_nau_nam_huong,CANH TÔM NẤU NẤM HƯƠNG,12,mon_an_nguyen_lieu.xlsx
+dish_canh_dau_phu,CANH ĐẬU PHỤ,7,mon_an_nguyen_lieu.xlsx
+dish_canh_dau_trang_nau_thit_ga,CANH ĐẬU TRẮNG NẤU THỊT GÀ,7,mon_an_nguyen_lieu.xlsx
+dish_canh_dau_xanh,CANH ĐẬU XANH,4,mon_an_nguyen_lieu.xlsx
+dish_chao_tom,CHẠO TÔM,10,mon_an_nguyen_lieu.xlsx
+dish_cha_ca_nuong,CHẢ CÁ NƯỚNG,20,mon_an_nguyen_lieu.xlsx
+dish_cha_ca_ran,CHẢ CÁ RÁN,12,mon_an_nguyen_lieu.xlsx
+dish_cha_gio_tom,CHẢ GIÒ TÔM,7,mon_an_nguyen_lieu.xlsx
+dish_cha_khoai_mon,CHẢ KHOAI MÔN,7,mon_an_nguyen_lieu.xlsx
+dish_cha_muc,CHẢ MỰC,10,mon_an_nguyen_lieu.xlsx
+dish_cha_tom,CHẢ TÔM,5,mon_an_nguyen_lieu.xlsx
+dish_cuon_tom,CUỐN TÔM,16,mon_an_nguyen_lieu.xlsx
+dish_ca_chua_nhoi_thit_hap,CÀ CHUA NHỔI THỊT HẤP,6,mon_an_nguyen_lieu.xlsx
+dish_ca_tim_bung,CÀ TÍM BUNG,11,mon_an_nguyen_lieu.xlsx
+dish_ca_tim_boc_bot_trung_ran,CÀ TÍM BỌC BỘT TRỨNG RÁN,9,mon_an_nguyen_lieu.xlsx
+dish_ca_tim_xao_thit,CÀ TÍM XẢO THỊT,8,mon_an_nguyen_lieu.xlsx
+dish_ca_au,CÁ AU,9,mon_an_nguyen_lieu.xlsx
+dish_ca_boc_mo_chai_nuong,CÁ BỌC MỠ CHÀI NƯỚNG,13,mon_an_nguyen_lieu.xlsx
+dish_ca_chim_kho,CÁ CHIM KHO,6,mon_an_nguyen_lieu.xlsx
+dish_ca_hap_chua_ngot,CÁ HẤP CHUA NGỌT,13,mon_an_nguyen_lieu.xlsx
+dish_ca_hap_gan_lon,CÁ HẤP GAN LỢN,12,mon_an_nguyen_lieu.xlsx
+dish_ca_hap_gung_hanh,CÁ HẤP GỪNG HÀNH,13,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_cu_cai,CÁ KHO CỦ CẢI,8,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_dua,CÁ KHO DỨA,7,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_nuoc_dua,CÁ KHO NƯỚC DỪA,8,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_rieng,CÁ KHO RIỀNG,6,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_chung_thit,CÁ KHÔ CHƯNG THỊT,10,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_hap,CÁ KHÔ HẤP,7,mon_an_nguyen_lieu.xlsx
+dish_ca_kho_rim,CÁ KHÔ RIM,8,mon_an_nguyen_lieu.xlsx
+dish_ca_nhung_dam_nuoc_dua,"CÁ NHÚNG DẤM, NƯỚC DỪA",14,mon_an_nguyen_lieu.xlsx
+dish_ca_nuong,CÁ NƯỚNG,15,mon_an_nguyen_lieu.xlsx
+dish_ca_om_rieng_me,CÁ OM RIỀNG MẺ,11,mon_an_nguyen_lieu.xlsx
+dish_ca_ran_sot_ca_chua,CÁ RÁN SỐT CÀ CHUA,9,mon_an_nguyen_lieu.xlsx
+dish_ca_rut_xuong_bo_lo,CÁ RÚT XƯƠNG BỎ LÒ,12,mon_an_nguyen_lieu.xlsx
+dish_ca_rut_xuong_hap,CÁ RÚT XƯƠNG HẤP,18,mon_an_nguyen_lieu.xlsx
+dish_ca_rut_xuong_nhoi_thit,CÁ RỨT XƯƠNG NHỔI THỊT,14,mon_an_nguyen_lieu.xlsx
+dish_ca_thu_vien_ran,CÁ THU VIÊN RÁN,9,mon_an_nguyen_lieu.xlsx
+dish_ca_tam_bot_ran,CÁ TẨM BỘT RÁN,10,mon_an_nguyen_lieu.xlsx
+dish_ca_xao_hoa_lo,CÁ XÀO HOA LƠ,12,mon_an_nguyen_lieu.xlsx
+dish_ca_chua_bo_lo,CẢ CHUA BỒ LÒ,10,mon_an_nguyen_lieu.xlsx
+dish_cai_xanh_xao_thap_cam,CẢI XANH XÀO THẬP CẨM,12,mon_an_nguyen_lieu.xlsx
+dish_cai_bap_nhoi_thit_hap,Cải bắp NHỒI THỊT HẤP,7,mon_an_nguyen_lieu.xlsx
+dish_cu_cai_hap_thit_lon,CỦ CẢI HẤP THỊT LỢN,7,mon_an_nguyen_lieu.xlsx
+dish_cu_nieng_xao_ruoi,CỦ NIÊNG XÀO RƯƠI,10,mon_an_nguyen_lieu.xlsx
+dish_dung_luon,DÙNG LƯƠN,11,mon_an_nguyen_lieu.xlsx
+dish_dua_chuot_xao_chua_ngot,DƯA CHUỘT XÀO CHUA NGỌT,11,mon_an_nguyen_lieu.xlsx
+dish_doi_luon_hap,DỒI LƯƠN HẤP,16,mon_an_nguyen_lieu.xlsx
+dish_doi_luon_ran,DỔI LƯƠN RÁN,13,mon_an_nguyen_lieu.xlsx
+dish_goi_luon_chien,GỎI LƯƠN CHIẾN,12,mon_an_nguyen_lieu.xlsx
+dish_hoa_bi_nhoi_tom_thit_ran,HOA BÍ NHỒI TÔM THỊT RÁN,5,mon_an_nguyen_lieu.xlsx
+dish_luon_boc_mo_chai_hap,LƯƠN BỌC MỠ CHÀI HẤP,15,mon_an_nguyen_lieu.xlsx
+dish_luon_boc_mo_chai_nuong,LƯƠN BỌC MỠ CHÀI NƯỚNG,16,mon_an_nguyen_lieu.xlsx
+dish_luon_cuon_ran,LƯƠN CUỐN RÁN,16,mon_an_nguyen_lieu.xlsx
+dish_luon_hap_ca_chua,LƯƠN HẤP CẢ CHUA,11,mon_an_nguyen_lieu.xlsx
+dish_luon_nuong_gan_ga,LƯƠN NƯỚNG GAN GÀ,15,mon_an_nguyen_lieu.xlsx
+dish_luon_om_rieng_dam,LƯƠN OM RIỀNG DẤM,10,mon_an_nguyen_lieu.xlsx
+dish_luon_rut_xuong_bo_lo,LƯƠN RÚT XƯƠNG BỎ LÒ,11,mon_an_nguyen_lieu.xlsx
+dish_luon_xao_mien,LƯƠN XÀO MIẾN,11,mon_an_nguyen_lieu.xlsx
+dish_luon_xao_sa_ot,LƯƠN XÀO SẢ ỚT,10,mon_an_nguyen_lieu.xlsx
+dish_luon_ui,LƯƠN ÙI,15,mon_an_nguyen_lieu.xlsx
+dish_lac_da_ca,LẠC DA CÁ,6,mon_an_nguyen_lieu.xlsx
+dish_lau_luon,LẦU LƯƠN,11,mon_an_nguyen_lieu.xlsx
+dish_mang_chua_xao_thit_lon,MĂNG CHUA XÀO THỊT LỢN,6,mon_an_nguyen_lieu.xlsx
+dish_mang_chua_xao_tom_tuoi,MĂNG CHUA XÀO TÔM TƯƠI,9,mon_an_nguyen_lieu.xlsx
+dish_mang_tuoi_xao_nhong,MĂNG TƯƠI XÀO NHỘNG,8,mon_an_nguyen_lieu.xlsx
+dish_mang_xao_thit_ga,MĂNG XÀO THỊT GÀ,8,mon_an_nguyen_lieu.xlsx
+dish_muop_xao_thit_bo,MƯỚP XÀO THỊT BÒ,8,mon_an_nguyen_lieu.xlsx
+dish_muop_dang_hap,MƯỚP ĐẮNG HẤP,8,mon_an_nguyen_lieu.xlsx
+dish_muop_dang_ham_thit,MƯỚP ĐẮNG HẦM THỊT,5,mon_an_nguyen_lieu.xlsx
+dish_muop_dang_xao_trung,MƯỚP ĐẮNG XÀO TRỨNG,7,mon_an_nguyen_lieu.xlsx
+dish_mam_tep,MẮM TÉP,5,mon_an_nguyen_lieu.xlsx
+dish_mam_tom_chua,MẮM TÔM CHUA,5,mon_an_nguyen_lieu.xlsx
+dish_moc_tom,MỌC TÔM,10,mon_an_nguyen_lieu.xlsx
+dish_muc_nhoi_thit_bo_lo,MỰC NHỔI THỊT BỒ LÒ,16,mon_an_nguyen_lieu.xlsx
+dish_muc_nhoi_thit_ran,MỰC NHỔI THỊT RÁN,17,mon_an_nguyen_lieu.xlsx
+dish_muc_nau_gion,MỰC NẤU GIÒN,10,mon_an_nguyen_lieu.xlsx
+dish_muc_nau_roi,MỰC NẤU RỐI,17,mon_an_nguyen_lieu.xlsx
+dish_muc_nu_my,MỰC NỤ MỸ,11,mon_an_nguyen_lieu.xlsx
+dish_muc_xao_dua_chua,MỰC XÀO DƯA CHUA,10,mon_an_nguyen_lieu.xlsx
+dish_muc_xao_hoa_lo,MỰC XÀO HOA LƠ,14,mon_an_nguyen_lieu.xlsx
+dish_nam_bao_gio,NẤM BAO GIÒ,5,mon_an_nguyen_lieu.xlsx
+dish_nam_nau_canh,NẤM NẤU CANH,7,mon_an_nguyen_lieu.xlsx
+dish_nom_cai_bap,NỘM Cải bắp,7,mon_an_nguyen_lieu.xlsx
+dish_nom_dua_chuot,NỘM DƯA CHUỘT,13,mon_an_nguyen_lieu.xlsx
+dish_nom_hoa_chuoi,NỘM HOA CHUỐI,10,mon_an_nguyen_lieu.xlsx
+dish_nom_mang_chua,NỘM MĂNG CHUA,9,mon_an_nguyen_lieu.xlsx
+dish_nom_muc_buoi,NỘM MỰC BƯỞI,9,mon_an_nguyen_lieu.xlsx
+dish_nom_ngo_sen,NỘM NGÓ SEN,8,mon_an_nguyen_lieu.xlsx
+dish_nom_qua_coc,NỘM QUÁ CÓC,12,mon_an_nguyen_lieu.xlsx
+dish_nom_rau_muong,NỘM RAU MUỐNG,13,mon_an_nguyen_lieu.xlsx
+dish_nom_su_su,NỘM SU SƯ,11,mon_an_nguyen_lieu.xlsx
+dish_nom_u_du,NỘM ÐU ĐỦ,11,mon_an_nguyen_lieu.xlsx
+dish_ruoc_ca,RUỐC CÁ,3,mon_an_nguyen_lieu.xlsx
+dish_ruoc_tom,RUỐC TÔM,3,mon_an_nguyen_lieu.xlsx
+dish_su_su_xao_trung,SU SU XÀO TRỨNG,9,mon_an_nguyen_lieu.xlsx
+dish_su_su_ham_thit,SƯ SU HẦM THỊT,8,mon_an_nguyen_lieu.xlsx
+dish_tom_bao_bot_trung_ran,TÔM BAO BỘT TRỨNG RÁN,12,mon_an_nguyen_lieu.xlsx
+dish_tom_kho_tau,TÔM KHO TÀU,5,mon_an_nguyen_lieu.xlsx
+dish_tom_rim,TÔM RIM,7,mon_an_nguyen_lieu.xlsx
+dish_tom_ran_sot_ca_chua,TÔM RÁN SỐT CÀ CHUA,10,mon_an_nguyen_lieu.xlsx
+dish_tom_xao_thap_cam,TÔM XÀO THẬP CÂM,17,mon_an_nguyen_lieu.xlsx
+dish_dau_phu_hap_thit,ĐẬU PHỤ HẤP THỊT,7,mon_an_nguyen_lieu.xlsx
+dish_dau_phu_hap_trung,ĐẬU PHỤ HẤP TRỨNG,7,mon_an_nguyen_lieu.xlsx
+dish_dau_phu_kho_thit,ĐẬU PHỤ KHO THỊT,6,mon_an_nguyen_lieu.xlsx
+dish_dau_phu_vien_ran,ĐẬU PHỤ VIÊN RÁN,9,mon_an_nguyen_lieu.xlsx
+dish_dau_phu_xao_gia_thit,ĐẬU PHỤ XÀO GIÁ THỊT,5,mon_an_nguyen_lieu.xlsx
+dish_dau_dua_xao_thit,ĐẬU ĐŨA XÀO THỊT,10,mon_an_nguyen_lieu.xlsx
+dish_ech_boc_mo_chai_nuong,ẾCH BỌC MỠ CHÀI NƯỚNG,10,mon_an_nguyen_lieu.xlsx
+dish_ech_hap_gan_ga,ẾCH HẤP GAN GÀ,9,mon_an_nguyen_lieu.xlsx
+dish_ech_nau_cary,ẾCH NẤU CARY,13,mon_an_nguyen_lieu.xlsx
+dish_ech_tam_bot_ran,ẾCH TẤM BỘT RÁN,12,mon_an_nguyen_lieu.xlsx
+dish_ech_xao_dua,ẾCH XÀO DỨA,13,mon_an_nguyen_lieu.xlsx
+dish_ech_xao_khe,ẾCH XÀO KHẾ,12,mon_an_nguyen_lieu.xlsx
+dish_ech_xao_mien,ẾCH XÀO MIẾN,8,mon_an_nguyen_lieu.xlsx
+dish_oc_nau_gia_ba_ba,ỐC NẤU GIẢ BA BA,14,mon_an_nguyen_lieu.xlsx

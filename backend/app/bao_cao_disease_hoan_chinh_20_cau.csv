@@ -1,0 +1,106 @@
+﻿user_input,retrieved_contexts,response,reference,faithfulness
+Bị cả hai bệnh thì cơm trắng hay gạo lứt tốt hơn?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo lứt | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 345.0 kcal | Carbohydrate (Carb): 72.8 g\n""]","Gạo lứt có:
+- Năng lượng: 345.0 kcal
+- Carbohydrate (Carb): 72.8 g
+
+Gạo trắng có:
+- Năng lượng: 356.0 kcal
+- Carbohydrate (Carb): 80.0 g
+
+Gạo lứt có chỉ số đường huyết (GI) thấp hơn, giúp kiểm soát lượng đường trong máu tốt hơn. Tuy nhiên, gạo lứt cũng có thể làm tăng lượng đường trong máu nếu tiêu thụ quá nhiều.
+
+📚 Nguồn trích dẫn y văn gốc: 'Gạo lứt và gạo trắng: Một đánh giá về giá trị dinh dưỡng và tác dụng đối với sức khỏe' (trang 23)","Gạo lứt tốt hơn rõ rệt bởi vì gạo lứt giữ được lớp vỏ lụa giàu chất xơ (3.4g chất xơ/100g) và vitamin nhóm B, giúp kéo dài thời gian hấp thu glucose, hạ cholesterol và bảo vệ thành mạch máu tốt hơn.",
+Tiểu đường có uống sữa đặc được không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Tiểu đường có uống sữa đặc được không?\n💡 Chuyên gia tư vấn: Không nên. Sữa đặc có đường chứa hàm lượng đường đơn sucrose cực kỳ lớn (9g sữa đặc đã tương đương 1 đơn vị đường chuyển đổi), rất dễ gây mất kiểm soát đường huyết sau khi uống.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Không nên uống sữa đặc vì chứa 9g đường đơn sucrose tương đương 1 đơn vị đường chuyển đổi.
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Không nên. Sữa đặc có đường chứa hàm lượng đường đơn sucrose cực kỳ lớn (9g sữa đặc đã tương đương 1 đơn vị đường chuyển đổi), rất dễ gây mất kiểm soát đường huyết sau khi uống.",
+Cao huyết áp có ăn khô bò được không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cao huyết áp có ăn khô bò được không?\n💡 Chuyên gia tư vấn: Nên hạn chế. Khô bò chứa lượng natri từ gia vị ướp và chất bảo quản rất cao, đồng thời chứa purin, người bệnh tăng huyết áp chỉ nên ăn lượng cực nhỏ hoặc tránh dùng thường xuyên.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Khô bò chứa 1200mg Natri và 250mg Purin cho 1 Phần ăn.
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Nên hạn chế. Khô bò chứa lượng natri từ gia vị ướp và chất bảo quản rất cao, đồng thời chứa purin, người bệnh tăng huyết áp chỉ nên ăn lượng cực nhỏ hoặc tránh dùng thường xuyên.",0.0
+Bị cả hai bệnh thì có nên giảm cân không?,"[""🚨 ĐỒ THỊ TRỐNG: Hệ thống chưa cập nhật dữ liệu cho thực phẩm 'Cả hai bệnh thì' 🚨""]","Chưa cập nhật.
+
+📚 Nguồn trích dẫn y văn gốc: 'Câu hỏi người dùng' không có trong dữ liệu đồ thị, nhưng dữ liệu đồ thị không cung cấp thông tin liên quan đến câu hỏi này.","Rất nên. Ở người thừa cân, béo phì, việc phối hợp chế độ dinh dưỡng và thay đổi lối sống để giảm ≥ 5% trọng lượng cơ thể sẽ đem lại lợi ích kép cho cả việc kiểm soát đường huyết, lipid máu và hạ huyết áp.",
+Tôi bị tiểu đường có ăn thanh long được không?,"[""🚨 ĐỒ THỊ TRỐNG: Hệ thống chưa cập nhật dữ liệu cho thực phẩm 'Tôi bị tiểu đường' 🚨""]","Chưa cập nhật.
+
+📚 Nguồn trích dẫn y văn gốc: 
+- Không có thông tin liên quan trong dữ liệu được cung cấp.","Được. Quả thanh long chứa hàm lượng chất xơ dồi dào (1.8g chất xơ/100g) và lượng đường vừa phải, người bệnh đái tháo đường có thể ăn khoảng 1/4 quả trung bình (~115g) cho mỗi bữa phụ.",66.67
+Cao huyết áp ăn mắm cá linh được không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cao huyết áp ăn mắm cá linh được không?\n💡 Chuyên gia tư vấn: Không nên. Tất cả các loại mắm đặc, mắm cá linh đều chứa hàm lượng muối natri bão hòa rất cao để lên men, là tác nhân trực tiếp làm tăng huyết áp và tăng gánh nặng suy giảm chức năng thận.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Không nên ăn mắm cá linh vì chứa hàm lượng muối natri bão hòa cao, có thể làm tăng huyết áp.
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Không nên. Tất cả các loại mắm đặc, mắm cá linh đều chứa hàm lượng muối natri bão hòa rất cao để lên men, là tác nhân trực tiếp làm tăng huyết áp và tăng gánh nặng suy giảm chức năng thận.",
+Bị tiểu đường có nên ăn yến mạch buổi sáng không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Bị tiểu đường có nên ăn yến mạch buổi sáng không?\n💡 Chuyên gia tư vấn: Có, rất tốt. Yến mạch cung cấp nguồn glucid phức hợp và giàu chất xơ hòa tan (beta-glucan), có chỉ số đường huyết thấp (GI = 85 nhưng hấp thu từ từ), hỗ trợ kiểm soát đường huyết và hạ mỡ máu tối ưu.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Yến mạch buổi sáng có thể ăn, tốt cho kiểm soát đường huyết và hạ mỡ máu. 
+
+GI: 85
+Beta-glucan: Chưa cập nhật
+Năng lượng: Chưa cập nhật
+Chất đạm: Chưa cập nhật
+Natri: Chưa cập nhật
+Kali: Chưa cập nhật
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Có, rất tốt. Yến mạch cung cấp nguồn glucid phức hợp và giàu chất xơ hòa tan (beta-glucan), có chỉ số đường huyết thấp (GI = 85 nhưng hấp thu từ từ), hỗ trợ kiểm soát đường huyết và hạ mỡ máu tối ưu.",
+Cả tiểu đường lẫn tăng huyết áp thì có cần tập thể dục không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cả tiểu đường lẫn tăng huyết áp thì có cần tập thể dục không?\n💡 Chuyên gia tư vấn: Rất cần thiết. Hoạt động thể lực thông dụng như đi bộ 30 phút mỗi ngày giúp tăng cường hoạt động chuyển hóa insulin, cải thiện dung nạp glucose đồng thời hỗ trợ làm giảm và ổn định chỉ số huyết áp.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Tập thể dục cần thiết, giúp tăng cường hoạt động chuyển hóa insulin và cải thiện dung nạp glucose, đồng thời hỗ trợ làm giảm và ổn định chỉ số huyết áp.
+
+📚 Nguồn trích dẫn y văn gốc:
+- Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Rất cần thiết. Hoạt động thể lực thông dụng như đi bộ 30 phút mỗi ngày giúp tăng cường hoạt động chuyển hóa insulin, cải thiện dung nạp glucose đồng thời hỗ trợ làm giảm và ổn định chỉ số huyết áp.",
+Tiểu đường có được ăn bưởi không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Tiểu đường có được ăn bưởi không?\n💡 Chuyên gia tư vấn: Được, rất khuyến khích. Quả bưởi giàu chất xơ (137g múi bưởi tương đương 1 đơn vị chuyển đổi), nhiều vitamin C và có chỉ số đường huyết thấp, hỗ trợ giữ cơ thể no lâu và kiểm soát đường huyết an toàn.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Tiểu đường có thể ăn bưởi, 1 phần ăn bưởi chứa:
+
+- Năng lượng: Chưa cập nhật
+- Carbohydrate: Chưa cập nhật
+- Chất đạm: Chưa cập nhật
+- Natri: Chưa cập nhật
+- Kali: Chưa cập nhật
+- Chất xơ: 137g
+- Vitamin C: Chưa cập nhật
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Được, rất khuyến khích. Quả bưởi giàu chất xơ (137g múi bưởi tương đương 1 đơn vị chuyển đổi), nhiều vitamin C và có chỉ số đường huyết thấp, hỗ trợ giữ cơ thể no lâu và kiểm soát đường huyết an toàn.",
+Cao huyết áp có nên ăn thịt kho mặn không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cao huyết áp có nên ăn thịt kho mặn không?\n💡 Chuyên gia tư vấn: Không nên. Thịt kho mặn sử dụng lượng lớn muối, nước mắm, nước tương khi chế biến, chứa lượng natri tích lũy cao, đi kèm mỡ lợn có nhiều acid béo bão hòa sẽ làm tăng huyết áp và xơ vữa mạch máu.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Không nên ăn thịt kho mặn vì chứa lượng natri 1200 mg và mỡ lợn có nhiều acid béo bão hòa.
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Không nên. Thịt kho mặn sử dụng lượng lớn muối, nước mắm, nước tương khi chế biến, chứa lượng natri tích lũy cao, đi kèm mỡ lợn có nhiều acid béo bão hòa sẽ làm tăng huyết áp và xơ vữa mạch máu.",
+Bị cả hai bệnh có nên ăn lẩu mắm không?,"[""🚨 ĐỒ THỊ TRỐNG: Hệ thống chưa cập nhật dữ liệu cho thực phẩm 'Cả hai bệnh' 🚨""]","Chưa cập nhật.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bệnh Đái tháo đường và Tăng huyết áp' (source_document: 'Bệnh lý học', source_page: 120)","Nên hạn chế tối đa. Nước cốt lẩu mắm chứa lượng natri cực kỳ cao từ mắm cốt cô đặc, kết hợp với các loại thịt mỡ làm tăng gánh mạch máu và huyết áp, không phù hợp cho người có cả hai bệnh lý nền.",66.67
+Tiểu đường có ăn dưa hấu được không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Tiểu đường có ăn dưa hấu được không?\n💡 Chuyên gia tư vấn: Được, nhưng chỉ ăn lượng vừa phải. Dưa hấu có chỉ số đường huyết tương đối cao (GI = 72) nhưng tải lượng đường huyết trong 100g thấp (GL = 3.6). Mỗi lần người bệnh chỉ nên ăn khoảng 3 miếng nhỏ (~280g cả vỏ).\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Dưa hấu có thể ăn được, nhưng chỉ ăn lượng vừa phải. Mỗi 100g dưa hấu có:
+- Năng lượng: 30 kcal
+- Carbohydrate: 7.6g
+- Chất đạm: 0.6g
+- Natri: 1mg
+- Kali: 170mg
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa), trang 120.","Được, nhưng chỉ ăn lượng vừa phải. Dưa hấu có chỉ số đường huyết tương đối cao (GI = 72) nhưng tải lượng đường huyết trong 100g thấp (GL = 3.6). Mỗi lần người bệnh chỉ nên ăn khoảng 3 miếng nhỏ (~280g cả vỏ).",
+Cao huyết áp có nên ăn xúc xích nướng không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cao huyết áp có nên ăn xúc xích nướng không?\n💡 Chuyên gia tư vấn: Không nên. Xúc xích nướng chứa chất béo bão hòa cao và lượng muối natri lớn (~287 mg/100g) phục vụ chế biến sẵn, hoàn toàn không tốt cho thành mạch và kiểm soát huyết áp tâm thu.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Xúc xích nướng chứa chất béo bão hòa cao và lượng muối natri lớn (~287 mg/100g).
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Không nên. Xúc xích nướng chứa chất béo bão hòa cao và lượng muối natri lớn (~287 mg/100g) phục vụ chế biến sẵn, hoàn toàn không tốt cho thành mạch và kiểm soát huyết áp tâm thu.",
+Bị cả hai bệnh thì uống trà sữa hay nước lọc tốt hơn?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Trà sữa | Nhãn hệ thống: ['Alias']\n - Năng lượng: None kcal | Carbohydrate (Carb): None g\n""]","Chưa cập nhật thông tin về Năng lượng và Carbohydrate của Trà sữa.
+
+📚 Nguồn trích dẫn y văn gốc: Trà sữa | source_document: ""Tài liệu dinh dưỡng"" | source_page: 12","Nước lọc tốt hơn tuyệt đối. Nước lọc đun sôi để nguội giúp làm sạch và duy trì cân bằng nội môi mà không chứa calo, không chứa đường đơn hay chất béo bão hòa như trà sữa, bảo vệ an toàn mạch máu.",25.0
+Tiểu đường có nên ăn nhiều trái cây cùng lúc không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Tiểu đường có nên ăn nhiều trái cây cùng lúc không?\n💡 Chuyên gia tư vấn: Không nên. Việc tiêu thụ một lượng lớn trái cây chín (ngay cả loại đường tự nhiên fructose) trong cùng một bữa sẽ làm quá tải hệ thống men chuyển hóa, gây tăng vọt glucose máu sau khi ăn.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Không nên ăn nhiều trái cây cùng lúc. Việc tiêu thụ một lượng lớn trái cây chín trong cùng một bữa sẽ làm quá tải hệ thống men chuyển hóa, gây tăng vọt glucose máu sau khi ăn.
+
+📚 Nguồn trích dẫn y văn gốc:
+- Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Không nên. Việc tiêu thụ một lượng lớn trái cây chín (ngay cả loại đường tự nhiên fructose) trong cùng một bữa sẽ làm quá tải hệ thống men chuyển hóa, gây tăng vọt glucose máu sau khi ăn.",
+Cao huyết áp có cần giảm muối suốt đời không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Cao huyết áp có cần giảm muối suốt đời không?\n💡 Chuyên gia tư vấn: Có, cần duy trì lâu dài. Hạn chế lượng muối ăn vào (< 5g-6g muối/ngày) là một nguyên tắc can thiệp lối sống có hiệu quả lâu dài giúp giảm tỷ lệ tái phát tai biến và ổn định huyết áp muôn đời.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Câu trả lời của tôi:
+
+Có, cần duy trì lâu dài. Hạn chế lượng muối ăn vào < 5g-6g muối/ngày.
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Có, cần duy trì lâu dài. Hạn chế lượng muối ăn vào (< 5g-6g muối/ngày) là một nguyên tắc can thiệp lối sống có hiệu quả lâu dài giúp giảm tỷ lệ tái phát tai biến và ổn định huyết áp muôn đời.",100.0
+Bị cả hai bệnh có nên uống bia cuối tuần không?,"[""🚨 ĐỒ THỊ TRỐNG: Hệ thống chưa cập nhật dữ liệu cho thực phẩm 'Cả hai bệnh' 🚨""]","Chưa cập nhật.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bệnh lý học và Y học dự phòng' trang 120.","Cần hạn chế tối đa. Rượu bia có thể ức chế quá trình tân tạo đường ở gan gây hạ đường huyết đột ngột lúc xa bữa ăn, đồng thời hủy hoại tế bào gan, làm tăng các yếu tố rủi ro tim mạch và đột quỵ mạn tính.",50.0
+Tiểu đường ăn cơm xong có nên đi bộ không?,"['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Tiểu đường ăn cơm xong có nên đi bộ không?\n💡 Chuyên gia tư vấn: Có, rất tốt. Đi bộ nhẹ nhàng sau 3 bữa ăn chính (khoảng 10-15 phút mỗi lần) giúp cơ bắp tiêu thụ bớt lượng glucose tự do trong máu, giảm đỉnh đường huyết sau ăn rất hiệu quả.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n']","Câu trả lời của tôi sẽ tập trung vào thông tin dinh dưỡng liên quan đến tiểu đường và đi bộ sau ăn.
+
+Câu trả lời của tôi sẽ không đưa ra thông tin về đi bộ sau ăn mà chỉ tập trung vào thông tin dinh dưỡng liên quan đến tiểu đường.
+
+Tuy nhiên, dựa trên dữ liệu được cung cấp, tôi không thể tìm thấy thông tin cụ thể về lượng glucose, đỉnh đường huyết sau ăn, hoặc các thông số dinh dưỡng khác liên quan đến tiểu đường.
+
+Vì vậy, tôi sẽ trả lời rằng không có thông tin cụ thể về lượng glucose, đỉnh đường huyết sau ăn, hoặc các thông số dinh dưỡng khác liên quan đến tiểu đường.
+
+Nếu bạn cần thông tin về dinh dưỡng liên quan đến tiểu đường, tôi có thể giúp bạn tìm kiếm thông tin từ các nguồn khác.
+
+📚 Nguồn trích dẫn y văn gốc:
+Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)","Có, rất tốt. Đi bộ nhẹ nhàng sau 3 bữa ăn chính (khoảng 10-15 phút mỗi lần) giúp cơ bắp tiêu thụ bớt lượng glucose tự do trong máu, giảm đỉnh đường huyết sau ăn rất hiệu quả.",33.33
+Bị cả tiểu đường với tăng huyết áp thì nguyên tắc ăn uống quan trọng nhất là gì?,['--- TRI THỨC ĐỐI THOẠI LÂM SÀNG ĐÃ ĐỐI SOÁT (BỘ Y TẾ) ---\n❓ Tình huống lâm sàng: Bị cả tiểu đường với tăng huyết áp thì nguyên tắc ăn uống quan trọng nhất là gì?\n💡 Chuyên gia tư vấn: Nguyên tắc kết hợp quan trọng nhất là: Kiểm soát chặt chẽ lượng carbohydrate trong mỗi bữa để tránh tăng đường huyết; Đồng thời giảm nghiêm ngặt lượng natri (< 2000mg/ngày) để hạ huyết áp; Và tăng cường chất xơ từ rau xanh phong phú.\n📚 Nguồn trích dẫn: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)\n'],"Nguyên tắc ăn uống quan trọng nhất là:
+- Kiểm soát chặt chẽ lượng carbohydrate trong mỗi bữa: 45-65g
+- Giảm nghiêm ngặt lượng natri: < 2000mg/ngày
+- Tăng cường chất xơ từ rau xanh phong phú: 25-30g
+
+📚 Nguồn trích dẫn y văn gốc: Tài liệu Dinh dưỡng lâm sàng - Bộ Y tế (Khẩu ngữ hóa)",Nguyên tắc kết hợp quan trọng nhất là: Kiểm soát chặt chẽ lượng carbohydrate trong mỗi bữa để tránh tăng đường huyết; Đồng thời giảm nghiêm ngặt lượng natri (< 2000mg/ngày) để hạ huyết áp; Và tăng cường chất xơ từ rau xanh phong phú.,33.33
+If vừa bị tiểu đường vừa bị tăng huyết áp thì nên ưu tiên mục tiêu dinh dưỡng nào?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Tăng huyết áp | Nhãn hệ thống: ['Disease']\n - Năng lượng: None kcal | Carbohydrate (Carb): None g\n""]","Chưa cập nhật Năng lượng và Carbohydrate.
+
+📚 Nguồn trích dẫn y văn gốc: Tăng huyết áp | Trang 0",Cần đạt đồng thời 3 mục tiêu: Một là đạt mục tiêu kiểm soát glucose máu (HbA1c < 7%); Hai là duy trì huyết áp mục tiêu (< 130/80 mmHg); Ba là quản lý ổn định cân nặng ở mức hợp lý (BMI từ 19 đến dưới 23).,100.0

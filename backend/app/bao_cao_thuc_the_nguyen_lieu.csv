@@ -1,0 +1,58 @@
+﻿user_input,retrieved_contexts,response,reference,faithfulness
+Gạo nếp cái chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo nếp cái | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 344.0 kcal | Carbohydrate (Carb): 74.5 g\n - Chất đạm (Protein): 8.5 g | Natri: 3.0 mg | Kali: 280.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Gạo nếp cái chứa khoảng 74,5 g carbohydrate trong 1 phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",74.5 g carbohydrate,75.0
+Gạo nếp máy chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo nếp máy | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 346.0 kcal | Carbohydrate (Carb): 74.9 g\n - Chất đạm (Protein): 8.4 g | Natri: 3.0 mg | Kali: 282.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Gạo nếp máy chứa khoảng 74,9 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",74.9 g carbohydrate,100.0
+Gạo tẻ giã chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo tẻ giã | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 344.0 kcal | Carbohydrate (Carb): 75.0 g\n - Chất đạm (Protein): 8.1 g | Natri: 5.0 mg | Kali: 202.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Gạo tẻ giã chứa 75,0 g carbohydrate trong 1 phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",75 g carbohydrate,
+Gạo tẻ máy chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo tẻ máy | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 344.0 kcal | Carbohydrate (Carb): 75.9 g\n - Chất đạm (Protein): 7.9 g | Natri: 5.0 mg | Kali: 241.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Gạo tẻ máy chứa khoảng 75,9 g carbohydrate trong 1 phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",75.9 g carbohydrate,75.0
+Gạo lứt chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Gạo lứt | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 345.0 kcal | Carbohydrate (Carb): 72.8 g\n - Chất đạm (Protein): 7.5 g | Natri: 5.0 mg | Kali: 202.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Gạo lứt chứa khoảng 72,8 gram carbohydrate trong mỗi phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",72.8 g carbohydrate,
+Kê chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Kê | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 331.0 kcal | Carbohydrate (Carb): 69.0 g\n - Chất đạm (Protein): 7.0 g | Natri: 7.0 mg | Kali: 249.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Kê chứa 69,0 g carbohydrate.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",69 g carbohydrate,
+Ngô bắp tươi chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Ngô bắp tươi | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 196.0 kcal | Carbohydrate (Carb): 39.6 g\n - Chất đạm (Protein): 4.1 g | Natri: 3.0 mg | Kali: 306.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Ngô bắp tươi chứa khoảng 39,6 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",39.6 g carbohydrate,
+Ngô vàng hạt khô chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Ngô vàng hạt khô | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 354.0 kcal | Carbohydrate (Carb): 69.4 g\n - Chất đạm (Protein): 8.6 g | Natri: 35.0 mg | Kali: 287.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Ngô vàng hạt khô chứa khoảng 69,4 g carbohydrate trong 1 phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",69.4 g carbohydrate,
+Bánh bao nhân thịt chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh bao nhân thịt | Nhãn hệ thống: ['Dish']\n - Năng lượng: 219.0 kcal | Carbohydrate (Carb): 47.5 g\n - Chất đạm (Protein): 6.1 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh bao nhân thịt chứa khoảng 47,5 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",47.5 g carbohydrate,
+Bánh đa nem chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh đa nem | Nhãn hệ thống: ['Dish']\n - Năng lượng: 333.0 kcal | Carbohydrate (Carb): 78.9 g\n - Chất đạm (Protein): 4.0 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh đa nem chứa khoảng 78,9 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",78.9 g carbohydrate,
+Bánh đút chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh đút | Nhãn hệ thống: ['Dish']\n - Năng lượng: 52.0 kcal | Carbohydrate (Carb): 11.3 g\n - Chất đạm (Protein): 0.9 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh đút chứa khoảng 11,3 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",11.3 g carbohydrate,
+Bánh mì chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh mì | Nhãn hệ thống: ['Dish']\n - Năng lượng: 249.0 kcal | Carbohydrate (Carb): 52.6 g\n - Chất đạm (Protein): 7.9 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh mì chứa khoảng 52,6 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",52.6 g carbohydrate,
+Bánh phở chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh phở | Nhãn hệ thống: ['Dish']\n - Năng lượng: 143.0 kcal | Carbohydrate (Carb): 31.7 g\n - Chất đạm (Protein): 3.2 g | Natri: 3.0 mg | Kali: 15.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh phở chứa khoảng 31,7 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",31.7 g carbohydrate,100.0
+Bánh quẩy chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bánh quẩy | Nhãn hệ thống: ['Dish']\n - Năng lượng: 292.0 kcal | Carbohydrate (Carb): 40.7 g\n - Chất đạm (Protein): 8.0 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bánh quẩy chứa khoảng 40,7 gram carbohydrate.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",40.7 g carbohydrate,
+Bổng ngô chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bổng ngô | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 372.0 kcal | Carbohydrate (Carb): 80.8 g\n - Chất đạm (Protein): 8.6 g | Natri: None mg | Kali: None mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bổng ngô chứa khoảng 80,8 gram carbohydrate trong mỗi phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",80.8 g carbohydrate,
+Bột gạo nếp chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bột gạo nếp | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 362.0 kcal | Carbohydrate (Carb): 78.8 g\n - Chất đạm (Protein): 8.2 g | Natri: 3.0 mg | Kali: 293.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bột gạo nếp chứa khoảng 78,8 gram carbohydrate trong mỗi phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",78.8 g carbohydrate,
+Bột gạo tẻ chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bột gạo tẻ | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 359.0 kcal | Carbohydrate (Carb): 82.2 g\n - Chất đạm (Protein): 6.6 g | Natri: None mg | Kali: 76.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bột gạo tẻ chứa khoảng 82,2 g carbohydrate trong mỗi phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",82.2 g carbohydrate,100.0
+Bột mì chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bột mì | Nhãn hệ thống: ['Dish']\n - Năng lượng: 346.0 kcal | Carbohydrate (Carb): 73.6 g\n - Chất đạm (Protein): 10.3 g | Natri: 4.0 mg | Kali: 186.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bột mì chứa khoảng 73,6 gram carbohydrate trong một phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",73.6 g carbohydrate,100.0
+Bột ngô vàng chứa bao nhiêu carbohydrate?,"[""--- DỮ LIỆU ĐỒ THỊ TRI THỨC ĐO ĐẠC THỰC TẾ ---\n Thực thể tìm thấy: Bột ngô vàng | Nhãn hệ thống: ['Ingredient']\n - Năng lượng: 361.0 kcal | Carbohydrate (Carb): 73.0 g\n - Chất đạm (Protein): 8.3 g | Natri: 5.0 mg | Kali: 315.0 mg\n - Nguồn dữ liệu y văn: Tài liệu 'Bảng thành phần thực phẩm Việt Nam', Vị trí: Phụ lục tra cứu định lượng\n""]","Bột ngô vàng chứa khoảng 73,0 g carbohydrate trong mỗi phần ăn thành phẩm.
+
+📚 Nguồn trích dẫn y văn gốc: 'Bảng thành phần thực phẩm Việt Nam', Phụ lục tra cứu định lượng.",73 g carbohydrate,100.0

@@ -1,0 +1,159 @@
+﻿ingredient_id,name,source
+ing_banh_phong_tom_ran,Bánh phồng tôm rán,mon_an_nguyen_lieu.xlsx
+ing_banh_pho,Bánh phở,mon_an_nguyen_lieu.xlsx
+ing_banh_da_nem,Bánh đa nem,mon_an_nguyen_lieu.xlsx
+ing_bi_ngo,Bí ngô,mon_an_nguyen_lieu.xlsx
+ing_bi_dao_bi_xanh,Bí đao( bí xanh),mon_an_nguyen_lieu.xlsx
+ing_bun,Bún,mon_an_nguyen_lieu.xlsx
+ing_buoi,Bưởi,mon_an_nguyen_lieu.xlsx
+ing_bau,Bầu,mon_an_nguyen_lieu.xlsx
+ing_bau_duc_lon,Bầu dục lợn,mon_an_nguyen_lieu.xlsx
+ing_bot_ca,Bột cá,mon_an_nguyen_lieu.xlsx
+ing_bot_gao_nep,Bột gạo nếp,mon_an_nguyen_lieu.xlsx
+ing_bot_mi,Bột mì,mon_an_nguyen_lieu.xlsx
+ing_cary_bot,Cary bột,mon_an_nguyen_lieu.xlsx
+ing_chanh,Chanh,mon_an_nguyen_lieu.xlsx
+ing_chuoi_xanh,Chuối xanh,mon_an_nguyen_lieu.xlsx
+ing_chan_gio_lon,Chân giò lợn,mon_an_nguyen_lieu.xlsx
+ing_cua_dong,Cua đồng,mon_an_nguyen_lieu.xlsx
+ing_ca_bat,Cà bát,mon_an_nguyen_lieu.xlsx
+ing_ca_chua,Cà chua,mon_an_nguyen_lieu.xlsx
+ing_ca_rot_kho,Cà rốt khô,mon_an_nguyen_lieu.xlsx
+ing_ca_rot_cu_do_vang,"Cà rốt( củ đỏ, vàng)",mon_an_nguyen_lieu.xlsx
+ing_ca_tim,Cà tím,mon_an_nguyen_lieu.xlsx
+ing_ca_bong,Cá bống,mon_an_nguyen_lieu.xlsx
+ing_ca_chep,Cá chép,mon_an_nguyen_lieu.xlsx
+ing_ca_dau,Cá dầu,mon_an_nguyen_lieu.xlsx
+ing_ca_nac,Cá nạc,mon_an_nguyen_lieu.xlsx
+ing_ca_qua,Cá quả,mon_an_nguyen_lieu.xlsx
+ing_ca_ro_dong,Cá rô đồng,mon_an_nguyen_lieu.xlsx
+ing_ca_thu,Cá thu,mon_an_nguyen_lieu.xlsx
+ing_ca_tre,Cá trê,mon_an_nguyen_lieu.xlsx
+ing_ca_trich,Cá trích,mon_an_nguyen_lieu.xlsx
+ing_ca_tram_co,Cá trắm cỏ,mon_an_nguyen_lieu.xlsx
+ing_ca_doi,Cá đối,mon_an_nguyen_lieu.xlsx
+ing_cui_dua_gia,Cùi dừa giả,mon_an_nguyen_lieu.xlsx
+ing_cai_bap,Cải bắp,mon_an_nguyen_lieu.xlsx
+ing_cai_cuc,Cải cúc,mon_an_nguyen_lieu.xlsx
+ing_cai_soong,Cải soong,mon_an_nguyen_lieu.xlsx
+ing_cai_xanh,Cải xanh,mon_an_nguyen_lieu.xlsx
+ing_can_ta,Cần ta,mon_an_nguyen_lieu.xlsx
+ing_can_tay,Cần tây,mon_an_nguyen_lieu.xlsx
+ing_com,Cốm,mon_an_nguyen_lieu.xlsx
+ing_cu_cai_trang,Củ cải trắng,mon_an_nguyen_lieu.xlsx
+ing_cu_khoai_mo,Củ khoai mỡ,mon_an_nguyen_lieu.xlsx
+ing_cu_nieng,Củ niễng,mon_an_nguyen_lieu.xlsx
+ing_cu_dau,Củ đậu,mon_an_nguyen_lieu.xlsx
+ing_dua_chuot,Dưa chuột,mon_an_nguyen_lieu.xlsx
+ing_dua_cai_be,Dưa cải bẹ,mon_an_nguyen_lieu.xlsx
+ing_dua_hong,Dưa hồng,mon_an_nguyen_lieu.xlsx
+ing_da_day_lon,Dạ dày lợn,mon_an_nguyen_lieu.xlsx
+ing_dau_dua,Dầu dừa,mon_an_nguyen_lieu.xlsx
+ing_doc_mung,Dọc mùng,mon_an_nguyen_lieu.xlsx
+ing_dua_ta,Dứa ta,mon_an_nguyen_lieu.xlsx
+ing_gan_ga,Gan gà,mon_an_nguyen_lieu.xlsx
+ing_gan_lon,Gan lợn,mon_an_nguyen_lieu.xlsx
+ing_gia_dau_xanh,Giá đậu xanh,mon_an_nguyen_lieu.xlsx
+ing_gio_lua,Giò lụa,mon_an_nguyen_lieu.xlsx
+ing_gao_nep_cai,Gạo nếp cái,mon_an_nguyen_lieu.xlsx
+ing_gao_te_may,Gạo tẻ máy,mon_an_nguyen_lieu.xlsx
+ing_gung_tuoi,Gừng tươi,mon_an_nguyen_lieu.xlsx
+ing_hoa_chuoi,Hoa chuối,mon_an_nguyen_lieu.xlsx
+ing_hanh_cu_tuoi,Hành củ tươi,mon_an_nguyen_lieu.xlsx
+ing_hanh_la_hanh_hoa,Hành lá (hành hoa),mon_an_nguyen_lieu.xlsx
+ing_hanh_tay,Hành tây,mon_an_nguyen_lieu.xlsx
+ing_hat_sen_kho,Hạt sen khô,mon_an_nguyen_lieu.xlsx
+ing_hat_sen_tuoi,Hạt sen tươi,mon_an_nguyen_lieu.xlsx
+ing_hat_tieu,Hạt tiêu,mon_an_nguyen_lieu.xlsx
+ing_he_la,Hẹ lá,mon_an_nguyen_lieu.xlsx
+ing_hong_do,Hồng đỏ,mon_an_nguyen_lieu.xlsx
+ing_khoai_nuoc,Khoai nước,mon_an_nguyen_lieu.xlsx
+ing_khoai_tay,Khoai tây,mon_an_nguyen_lieu.xlsx
+ing_khe,Khế,mon_an_nguyen_lieu.xlsx
+ing_kieu_muoi,Kiệu muối,mon_an_nguyen_lieu.xlsx
+ing_la_lot,Lá Lốt,mon_an_nguyen_lieu.xlsx
+ing_long_trang_trung_ga,Lòng trắng trứng gà,mon_an_nguyen_lieu.xlsx
+ing_luon,Lươn,mon_an_nguyen_lieu.xlsx
+ing_lac_hat,Lạc Hạt,mon_an_nguyen_lieu.xlsx
+ing_lap_xuong,Lạp xưởng,mon_an_nguyen_lieu.xlsx
+ing_mien_dong,Miến dong,mon_an_nguyen_lieu.xlsx
+ing_muoi,Muối,mon_an_nguyen_lieu.xlsx
+ing_mang_chua,Măng chua,mon_an_nguyen_lieu.xlsx
+ing_mang_kho,Măng khô,mon_an_nguyen_lieu.xlsx
+ing_mang_tre,Măng tre,mon_an_nguyen_lieu.xlsx
+ing_mo,Mơ,mon_an_nguyen_lieu.xlsx
+ing_mo_kho,Mơ khô,mon_an_nguyen_lieu.xlsx
+ing_muop,Mướp,mon_an_nguyen_lieu.xlsx
+ing_muop_dang,Mướp đắng,mon_an_nguyen_lieu.xlsx
+ing_mach_nha,Mạch nha,mon_an_nguyen_lieu.xlsx
+ing_man_nuoc_duong,Mận nước đường,mon_an_nguyen_lieu.xlsx
+ing_mat_ong,Mật ong,mon_an_nguyen_lieu.xlsx
+ing_mam_tom_dac,Mắm tôm đăc,mon_an_nguyen_lieu.xlsx
+ing_moc_nhi,Mộc nhĩ,mon_an_nguyen_lieu.xlsx
+ing_mo_lon_nuoc,Mỡ lợn nước,mon_an_nguyen_lieu.xlsx
+ing_muc_kho,Mực khô,mon_an_nguyen_lieu.xlsx
+ing_muc_tuoi,Mực tươi,mon_an_nguyen_lieu.xlsx
+ing_na,Na,mon_an_nguyen_lieu.xlsx
+ing_nghe_tuoi,Nghệ tươi,mon_an_nguyen_lieu.xlsx
+ing_ngo_sen,Ngó sen,mon_an_nguyen_lieu.xlsx
+ing_nhot,Nhót,mon_an_nguyen_lieu.xlsx
+ing_nuoc_dua_hop,Nước dứa hộp,mon_an_nguyen_lieu.xlsx
+ing_nuoc_dua_non_tuoi,Nước dừa non tươi,mon_an_nguyen_lieu.xlsx
+ing_nuoc_mam_ca,Nước mắm cá,mon_an_nguyen_lieu.xlsx
+ing_nam_huong_kho,Nấm hương khô,mon_an_nguyen_lieu.xlsx
+ing_nam_rom,Nấm rơm,mon_an_nguyen_lieu.xlsx
+ing_quit,Quít,mon_an_nguyen_lieu.xlsx
+ing_qua_coc,Quả cóc,mon_an_nguyen_lieu.xlsx
+ing_qua_doc,Quả doc,mon_an_nguyen_lieu.xlsx
+ing_qua_me_chua,Quả me chua,mon_an_nguyen_lieu.xlsx
+ing_rau_diep,Rau diếp,mon_an_nguyen_lieu.xlsx
+ing_rau_hung,Rau húng,mon_an_nguyen_lieu.xlsx
+ing_rau_muong,Rau muống,mon_an_nguyen_lieu.xlsx
+ing_rau_mui,Rau mùi,mon_an_nguyen_lieu.xlsx
+ing_rau_ngo,Rau ngố,mon_an_nguyen_lieu.xlsx
+ing_rau_ram,Rau râm,mon_an_nguyen_lieu.xlsx
+ing_rau_thom,Rau thơm,mon_an_nguyen_lieu.xlsx
+ing_rau_xa_lach,Rau xà lách,mon_an_nguyen_lieu.xlsx
+ing_rau_day,Rau đay,mon_an_nguyen_lieu.xlsx
+ing_rieng,Riềng,mon_an_nguyen_lieu.xlsx
+ing_ruoi,Rươi,mon_an_nguyen_lieu.xlsx
+ing_ruou_trang_con_39_g,Rượu trắng ( cồn 39 g),mon_an_nguyen_lieu.xlsx
+ing_su_hao,Su hào,mon_an_nguyen_lieu.xlsx
+ing_suon_lon,Sườn lợn,mon_an_nguyen_lieu.xlsx
+ing_sua_bot_toan_phan,Sữa bột toàn phần,mon_an_nguyen_lieu.xlsx
+ing_tai_lon,Tai lợn,mon_an_nguyen_lieu.xlsx
+ing_thia_la,Thìa là,mon_an_nguyen_lieu.xlsx
+ing_thit_bo_loai_i,Thịt bò loại I,mon_an_nguyen_lieu.xlsx
+ing_thit_ga_ta,Thịt gà ta,mon_an_nguyen_lieu.xlsx
+ing_thit_lon_mo,Thịt lợn mỡ,mon_an_nguyen_lieu.xlsx
+ing_thit_lon_nac,Thịt lợn nạc,mon_an_nguyen_lieu.xlsx
+ing_thit_lon_nua_nac_nua_mo,"Thịt lợn nửa nạc, nửa mỡ",mon_an_nguyen_lieu.xlsx
+ing_thit_vit,Thịt vịt,mon_an_nguyen_lieu.xlsx
+ing_tim_lon,Tim lợn,mon_an_nguyen_lieu.xlsx
+ing_trung_ga,Trứng gà,mon_an_nguyen_lieu.xlsx
+ing_trung_vit,Trứng vịt,mon_an_nguyen_lieu.xlsx
+ing_tep_gao,Tép gạo,mon_an_nguyen_lieu.xlsx
+ing_tia_to,Tía tô,mon_an_nguyen_lieu.xlsx
+ing_tom_bien,Tôm biển,mon_an_nguyen_lieu.xlsx
+ing_tom_kho,Tôm khô,mon_an_nguyen_lieu.xlsx
+ing_tuong_ngo,Tương ngô,mon_an_nguyen_lieu.xlsx
+ing_tuong_ot,Tương ớt,mon_an_nguyen_lieu.xlsx
+ing_toi_ta,Tỏi ta,mon_an_nguyen_lieu.xlsx
+ing_tuy_xuong_lon,Tủy xương lợn,mon_an_nguyen_lieu.xlsx
+ing_vai,Vải,mon_an_nguyen_lieu.xlsx
+ing_vung_den_trang,"Vừng ( Đen, Trắng)",mon_an_nguyen_lieu.xlsx
+ing_xoai_chin,Xoài chín,mon_an_nguyen_lieu.xlsx
+ing_xi_dau,Xì dầu,mon_an_nguyen_lieu.xlsx
+ing_xuong_song,Xương sông,mon_an_nguyen_lieu.xlsx
+ing_du_du_xanh,Đu đủ xanh,mon_an_nguyen_lieu.xlsx
+ing_dao,Đào,mon_an_nguyen_lieu.xlsx
+ing_duong_cat,Đường cát,mon_an_nguyen_lieu.xlsx
+ing_duong_kinh,Đường kính,mon_an_nguyen_lieu.xlsx
+ing_dau_ha_lan,Đậu Hà Lan,mon_an_nguyen_lieu.xlsx
+ing_dau_phu,Đậu phụ,mon_an_nguyen_lieu.xlsx
+ing_dau_trang_hat_dau_tay,Đậu trắng hạt (Đậu tây),mon_an_nguyen_lieu.xlsx
+ing_dau_tuong_dau_nanh,Đậu tương ( Đậu nành),mon_an_nguyen_lieu.xlsx
+ing_dau_xanh_dau_tat,Đậu xanh ( Đậu tắt),mon_an_nguyen_lieu.xlsx
+ing_ech_thit_dui,Ếch ( thịt đùi),mon_an_nguyen_lieu.xlsx
+ing_oc_nhoi,Ốc nhồi,mon_an_nguyen_lieu.xlsx
+ing_ot_do_to,Ớt đỏ to,mon_an_nguyen_lieu.xlsx
